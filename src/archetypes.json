@@ -1,0 +1,368 @@
+[
+  {
+    "id": "Artista Marcial",
+    "page": 19,
+    "attributes": {
+      "Agilidade": 8,
+      "Astúcia": 6,
+      "Espírito": 6,
+      "Força": 8,
+      "Vigor": 6
+    },
+    "skills": {
+      "Intimidar": 6,
+      "Lutar": 10,
+      "Perceber": 6
+    },
+    "advantages": [
+      "Artista Marcial"
+    ],
+    "extraSkills": 6
+  },
+  {
+    "id": "Atirador",
+    "page": 19,
+    "attributes": {
+      "Agilidade": 10,
+      "Astúcia": 6,
+      "Espírito": 6,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 10,
+      "Lutar": 6,
+      "Perceber": 6,
+      "Provocar": 6
+    },
+    "advantages": [
+      "Prontidão"
+    ],
+    "extraSkills": 5
+  },
+  {
+    "id": "Cara-De-Pau",
+    "page": 19,
+    "attributes": {
+      "Agilidade": 6,
+      "Astúcia": 6,
+      "Espírito": 8,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 4,
+      "Intimidar": 6,
+      "Lutar": 4,
+      "Manha": 6,
+      "Perceber": 6,
+      "Persuadir": 10,
+      "Provocar": 6
+    },
+    "advantages": [
+      "Atraente",
+      "Obstinado"
+    ],
+    "extraSkills": 0
+  },
+  {
+    "id": "Cientista",
+    "page": 19,
+    "attributes": {
+      "Agilidade": 4,
+      "Astúcia": 10,
+      "Espírito": 6,
+      "Força": 4,
+      "Vigor": 6
+    },
+    "skills": {
+      "Conhecimento (Ciência)": 10,
+      "Conhecimento (Outro)": 10,
+      "Consertar": 6,
+      "Investigar": 6,
+      "Perceber": 8
+    },
+    "advantages": [
+      "Acadêmico",
+      "McGyver",
+      "Pau Pra Toda Obra"
+    ],
+    "extraSkills": 0
+  },
+  {
+    "id": "Cientista Estranho",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 6,
+      "Astúcia": 8,
+      "Espírito": 6,
+      "Força": 4,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 6,
+      "Ciência Estranha": 10,
+      "Conhecimento (Ciência)": 8,
+      "Conhecimento (Outro)": 6,
+      "Consertar": 8
+    },
+    "advantages": [
+      "Antecedente Arcano (Ciência Estranha)",
+      "Engenhoqueiro"
+    ],
+    "extraSkills": 0
+  },
+  {
+    "id": "Guerreiro De Arma Grande",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 6,
+      "Astúcia": 4,
+      "Espírito": 6,
+      "Força": 10,
+      "Vigor": 6
+    },
+    "skills": {
+      "Intimidar": 6,
+      "Lutar": 10,
+      "Perceber": 6
+    },
+    "advantages": [
+      "Musculoso",
+      "Varredura"
+    ],
+    "extraSkills": 4
+  },
+  {
+    "id": "Guerreiro Esgrimista",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 8,
+      "Astúcia": 6,
+      "Espírito": 6,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Furtividade": 6,
+      "Lutar": 12,
+      "Perceber": 6,
+      "Provocar": 8
+    },
+    "advantages": [
+      "Florentino",
+      "Lutar com Duas Armas"
+    ],
+    "extraSkills": 0
+  },
+  {
+    "id": "Investigador",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 6,
+      "Astúcia": 8,
+      "Espírito": 6,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 6,
+      "Investigar": 8,
+      "Lutar": 6,
+      "Manha": 8,
+      "Perceber": 8,
+      "Persuadir": 6
+    },
+    "advantages": [
+      "Conexões",
+      "Investigador"
+    ],
+    "extraSkills": 0
+  },
+  {
+    "id": "Ladrão",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 8,
+      "Astúcia": 6,
+      "Espírito": 6,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Arrombar": 6,
+      "Escalar": 6,
+      "Furtividade": 8,
+      "Lutar": 6,
+      "Manha": 6,
+      "Perceber": 6,
+      "Provocar": 6
+    },
+    "advantages": [
+      "Assassino",
+      "Ladrão"
+    ],
+    "extraSkills": 0
+  },
+  {
+    "id": "Líder",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 6,
+      "Astúcia": 6,
+      "Espírito": 8,
+      "Força": 4,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 6,
+      "Conhecimento (Batalha)": 6,
+      "Intimidar": 6,
+      "Lutar": 6,
+      "Perceber": 6,
+      "Persuadir": 6
+    },
+    "advantages": [
+      "Comando",
+      "Líder Nato"
+    ],
+    "extraSkills": 3
+  },
+  {
+    "id": "Mago",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 4,
+      "Astúcia": 10,
+      "Espírito": 8,
+      "Força": 4,
+      "Vigor": 4
+    },
+    "skills": {
+      "Conhecimento (Arcano)": 6,
+      "Conjurar": 10,
+      "Investigar": 6,
+      "Lutar": 4,
+      "Perceber": 6
+    },
+    "advantages": [
+      "Antecedente Arcano (Magia)",
+      "Novo Poder",
+      "Pontos de Poder"
+    ],
+    "extraSkills": 4
+  },
+  {
+    "id": "Motorista",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 8,
+      "Astúcia": 6,
+      "Espírito": 6,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 6,
+      "Dirigir": 8,
+      "Lutar": 4,
+      "Perceber": 6
+    },
+    "advantages": [
+      "Ás",
+      "Rápido"
+    ],
+    "extraSkills": 7
+  },
+  {
+    "id": "Piloto",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 8,
+      "Astúcia": 6,
+      "Espírito": 6,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 6,
+      "Consertar": 6,
+      "Lutar": 4,
+      "Perceber": 8,
+      "Pilotar": 10
+    },
+    "advantages": [
+      "Ás",
+      "Prontidão"
+    ],
+    "extraSkills": 1
+  },
+  {
+    "id": "Pirata",
+    "page": 20,
+    "attributes": {
+      "Agilidade": 8,
+      "Astúcia": 4,
+      "Espírito": 6,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 8,
+      "Intimidar": 6,
+      "Lutar": 8,
+      "Navegar": 6,
+      "Perceber": 6,
+      "Provocar": 6
+    },
+    "advantages": [
+      "Acrobata",
+      "Mãos Firmes"
+    ],
+    "extraSkills": 0
+  },
+  {
+    "id": "Pistoleiro",
+    "page": 21,
+    "attributes": {
+      "Agilidade": 8,
+      "Astúcia": 6,
+      "Espírito": 6,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Atirar": 10,
+      "Lutar": 6,
+      "Perceber": 6,
+      "Provocar": 6
+    },
+    "advantages": [
+      "Ambidestro",
+      "Lutar com Duas Armas"
+    ],
+    "extraSkills": 4
+  },
+  {
+    "id": "Sacerdote Curandeiro",
+    "page": 21,
+    "attributes": {
+      "Agilidade": 6,
+      "Astúcia": 6,
+      "Espírito": 8,
+      "Força": 6,
+      "Vigor": 6
+    },
+    "skills": {
+      "Curar": 8,
+      "Fé": 8,
+      "Lutar": 6,
+      "Perceber": 6
+    },
+    "advantages": [
+      "Antecedente Arcano (Milagres)",
+      "Curandeiro"
+    ],
+    "extraSkills": 4
+  }
+]

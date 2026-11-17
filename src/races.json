@@ -1,0 +1,127 @@
+[
+  {
+    "id": "Androide",
+    "page": 22,
+    "text": [
+      "Androides são maquinas sencientes com uma variedade de aparências dependendo do cenário. Alguns parecem quase humanos, outros são puramente mecânicos. O androide apresentado aqui é uma versão básica com conhecimentos e emoções humanas normais. Cenários específicos podem alterar, remover ou acrescentar outras habilidades, baseadas no seu papel e função neste mundo.",
+      "• Circuitos Asimov: O androide não pode ferir ou, por omissão, trazer danos a seres sencientes. Isto dá a eles a Complicação Pacifista (Maior).",
+      "• Construto: Androides adicionam +2 para se recuperar do estado Abalado, não sofrem modificadores de ferimento e são imunes a veneno e doença. Androides não podem se curar naturalmente. Curar um androide requer a perícia Consertar – que é usada como a perícia Curar, mas sem a Hora de Ouro (veja a página 107).",
+      "• Forasteiro: Raças orgânicas geralmente desconfiam ou não compreendem os androides. Eles subtraem 2 de seu Carisma ao lidarem com outras raças, exceto outros androides.",
+      "• Não-Natural: Poderes Arcanos, tanto prejudiciais quanto benéficos, sofrem uma penalidade de -2 para afetar o androide. Isso não possui nenhum efeito em poderes causadores de dano, afetando-os normalmente.",
+      "• Programação: Androides começam com um d6 gratuito em uma perícia, representando sua função programada originalmente.",
+      "• Recarga: Durante a criação do personagem, o jogador precisa determinar a fonte de energia do androide. Se não puder acessar sua fonte de energia pelo menos uma vez por dia, fica automaticamente Fatigado a cada dia até estar Incapacitado. No dia seguinte, ele vai “desligar” e precisará ser revivido com",
+      "uma rolagem de Consertar e uma recarga de quatro horas. A fonte de energia substitui a necessidade de comida e água, a menos que esses tenham sido escolhidos como fonte de energia."
+    ]
+  },
+  {
+    "id": "Anão",
+    "page": 22,
+    "text": [
+      "Os anões são um povo baixo, robusto e resistente que vêm de imensas cavernas nas altas montanhas. Eles são uma raça orgulhosa e belicosa, normalmente feita assim pelo contato com raças selvagens como orcs e goblins.",
+      "Anões normalmente vivem mais de 200 anos. Na maioria das campanhas de fantasia, eles possuem pele avermelhada e todas as cores de cabelo dos humanos.",
+      "• Lento: Anões têm um Movimentação de 5.",
+      "• Resistente: Anões são fortes e resistentes. Eles começam com um d6 em Vigor.",
+      "• Visão no Escuro: Os olhos dos anões são acostumados à escuridão do subterrâneo. Eles ignoram penalidades de ataque por Penumbra e Escuridão."
+    ]
+  },
+  {
+    "id": "Atlante",
+    "page": 22,
+    "text": [
+      "Das profundezas esmagadoras vem o misterioso povo conhecido como Atlantes. Eles são duros e resistentes debaixo das ondas, mas frequentemente vulneráveis no ar seco ou no calor escaldante. Sua civilização é avançada e a ciência Atlante é maravilhosa de se contemplar.",
+      "• Aquático: Atlantes vivem e respiram na água. Eles não podem se afogar na água, se movem com sua perícia Nadar total e recebem um d6 gratuito em Nadar.",
+      "• Civilização Avançada: Atlantes geralmente são mais inteligentes que as outras raças de seu mundo. Começam com um d6 em Astúcia.",
+      "• Desidratação: Atlantes precisam mergulhar na água por uma hora a cada 24 horas ou ficam automaticamente Fatigados a cada dia, até ficarem Incapacitados, morrendo no dia seguinte após isso, caso passem mais um dia sem água.",
+      "• Resistente: A pressão de seus lares nas profundezas torna os Atlantes mais resistentes. Aumente a Resistência em 1."
+    ]
+  },
+  {
+    "id": "Aviano",
+    "page": 23,
+    "text": [
+      "Avianos são quaisquer raças humanoides com asas. Eles tendem a ser muito delgados devido aos seus ossos ocos.",
+      "• Ossos Ocos: Avianos têm -1 na Resistência.",
+      "• Quase Humano: Avianos podem escolher uma Vantagem gratuita durante a criação do personagem, mas devem cumprir todos os requisitos.",
+      "• Voo: Avianos podem voar com seu Movimentação básica e até mesmo “correr” enquanto voam. Custa 2 de Movimentação para ganhar 1 de altitude."
+    ]
+  },
+  {
+    "id": "Elfo",
+    "page": 23,
+    "text": [
+      "Elfos são seres altos e esguios com orelhas pontudas e olhos profundos de cores variadas. Sejam vindos de florestas ou vales ocultos, todos nascem mais graciosos que os humanos, mas um pouco mais leves. A maioria vive mais de 300 anos. Possuem pele clara e seus cabelos incluem todas as cores humanas, além de tons de prata e azul.",
+      "• Ágil: Elfos são graciosos e ágeis. Eles começam com um d6 em Agilidade.",
+      "• Desajeitados: Elfos têm uma aversão inata a objetos mecânicos e por isto possuem a Complicação Desajeitado. Eles evitam a maioria dos projetos e itens mecânicos.",
+      "• Visão no Escuro: Os olhos dos elfos ampliam a luz como os de um gato, permitindo a eles enxergar na escuridão. Elfos ignoram penalidades de ataque por Penumbra e Escuridão."
+    ]
+  },
+  {
+    "id": "Humano",
+    "page": 23,
+    "text": [
+      "Em muitos cenários os humanos devem receber o benefício habitual – uma Vantagem gratuita a sua escolha. Esta opção reflete a sua versatilidade e adaptabilidade em comparação a outras raças.",
+      "Se você gosta de uma maior variedade, também pode conceder habilidades humanas baseadas na cultura ao invés da raça. Por exemplo, uma cultura humana marítima pode começar com Nadar e Navegar em d6. Modelos culturais são desenvolvidos da mesma forma que a criação de novas raças (veja a página 23)."
+    ]
+  },
+  {
+    "id": "Meio-elfo",
+    "page": 23,
+    "text": [
+      "Meio-elfos normalmente são a combinação perfeita de ambos os seus pais. Eles ganham a graça dos elfos, mas não sua elegante fragilidade.",
+      "A maioria é bem aceita, mas alguns são rejeitados por um lado ou outro de sua família e crescem ressentidos. Outros podem até mesmo ser maltratados.",
+      "Sua expectativa de vida é mais próxima da de seu parente humano que de sua parte élfica (vivem cerca de 100 anos).",
+      "• Forasteiro: Meio-elfos não são forasteiros verdadeiros (como na Complicação de mesmo nome), mas também nem sempre estão confortáveis o bastante próximos a humanos ou elfos como se fossem um deles, então o efeito é o mesmo.",
+      "• Herança: Alguns meio-elfos retêm a graça dos seus pais élficos. Outros ganham a adaptabilidade de seu ancestral humano. Um meio-elfo pode começar com uma Vantagem gratuita de sua escolha (como um humano) ou um d6 em Agilidade .",
+      "• Visão no Escuro: Os olhos do personagem ampliam a luz como os de um gato, permitindo que ele enxergue na escuridão. Ele ignora penalidades de ataque por Penumbra e Escuridão."
+    ]
+  },
+  {
+    "id": "Meio-orc",
+    "page": 23,
+    "text": [
+      "Meio-orcs são descendentes tanto de um humano e um orc quanto de um orc e outro meio-orc. Raramente tal união é aceita voluntariamente, então é provável que a “árvore familiar” do personagem seja mais do que um incomodo para ele ou ela.",
+      "Eles normalmente são aceitos nas comunidades orcs, mas são rejeitados pela maioria das outras raças, incluindo humanos, elfos e anões. Alguns membros desta raça escolhem se juntarem às raças “civilizadas”, dando as costas as suas raízes bárbaras e frequentemente estão buscando se redimir. Muitos são heróis estoicos tentando provar o seu valor.",
+      "Possuem a pele clara dos humanos, com apenas um toque da coloração orc, com cabelos negros e olhos pequenos. Suas feições são duras e magras, como as dos orcs. Sua expectativa de vida natural é a mesma dos humanos, porém é raro que um deles morra de idade avançada.",
+      "• Forasteiro: Meio-orcs não são considerados confiáveis pela maioria das outras",
+      "raças civilizadas, assim subtraem 2 de seu Carisma.",
+      "• Forte: Meio-orcs possuem parte da força de seus ancestrais. Eles começam com um d6 em Força.",
+      "• Infravisão: Meio-orcs podem ver no espectro infravermelho, reduzindo pela metade as penalidades de ataque (arredondado para baixo) por iluminação ruim."
+    ]
+  },
+  {
+    "id": "Pequenino",
+    "page": 24,
+    "text": [
+      "Pequeninos são seres baixos e velozes com cabelos ondulados castanhos ou negros. Mesmo sendo frágeis em comparação com a maioria das outras raças, seu otimismo alegre (ou astucia sagaz) os concede uma atitude de “nunca diga nunca”, tornando-os mais que um desafio para criaturas com o dobro do seu tamanho.",
+      "Eles não veem razão para atrair problemas e tendem a viver em suas próprias pequenas comunidades muito afastadas das trilhas mais usadas.",
+      "• Afortunado: Pequeninos sacam um Benê adicional por sessão de jogo. Isto pode ser combinado com as Vantagens Sorte e Sorte Grande.",
+      "• Diminuto: Pequeninos medem cerca de um metro de altura. Isto concede a eles um Tamanho de -1 e subtrai 1 de sua Resistência.",
+      "• Espirituoso: Pequeninos normalmente são seres otimistas. Eles começam com um d6 em Espírito ."
+    ]
+  },
+  {
+    "id": "Rakashano",
+    "page": 24,
+    "text": [
+      "Rakashanos têm a forma de humanos com os traços de felinos. Aparecem em uma grande variedade: as cores brilhantes dos tigres, a pele manchada dos leopardos e a aparência exótica dos gatos siameses são todas apropriadas. Possuem garras e presas afiadas e uma natureza cruel ao lidar com sua presa.",
+      "Eles podem ser encontrados em suas próprias cidades exóticas e remotas ou como elementos marginais da sociedade normal. Enquanto são belos demais para serem rejeitados, são também muito estranhos para serem facilmente aceitos.",
+      "• Ágil: Rakashanos têm a graça felina de seus ancestrais. Eles começam com um d6 no atributo Agilidade.",
+      "• Garras: Rakashanos têm garras retrateis que causam For+d6 de dano e concedem +2 a rolagens de Escalar em praticamente qualquer superfície.",
+      "• Inimigo Racial: A sociedade rakashana cresce ao custo de outra. Escolha uma raça comum em seu cenário. Membros de cada cultura sofrem um -4 em Carisma quando lidam uns com os outros. A menos que sejam impedidos por outras autoridades ou objetivos comuns, indivíduos das duas raças tipicamente atacam uns aos outros ao se avistarem.",
+      "• Sanguinário: Rakashanos podem ser cruéis com seus inimigos. Muitas vezes brincando com eles por pura diversão. Eles raramente fazem prisioneiros e sentem pouco remorso a respeito de castigar inimigos capturados. Isto causa uma penalidade -4 em Carisma entre indivíduos mais “civilizados”.",
+      "• Visão no Escuro: Os olhos dos rakashanos ampliam a luz. Eles podem enxergar na escuridão e ignoram penalidades de ataque por Penumbra ou Escuridão."
+    ]
+  },
+  {
+    "id": "Sáurio",
+    "page": 25,
+    "text": [
+      "Homens-lagarto normalmente vêm de selvas fumegantes ou de desertos ermos onde possuem civilizações únicas, desconhecidas por outras raças sencientes.",
+      "Poucos forasteiros adentraram em sua sociedade e rumores de que a religião Sáuria exige sacrifícios de seres sencientes continuam sem confirmação.",
+      "• Armas Naturais: As garras, cauda e presas dos sáurios os permitem golpear com a cauda, rasgar ou morder em combate com For+d4 de dano.",
+      "• Forasteiro: Muitas raças desconfiam dos sáurios de olhos frios. Seu habito de devorarem sua carne ainda se contorcendo é menos apetitoso ainda. Eles sofrem uma penalidade de -2 no Carisma.",
+      "• Natureza Quente: Embora não sejam verdadeiramente de sangue frio, sáurios não se sentem confortáveis em ambientes frios. Eles sofrem uma penalidade de -4 para resistir aos efeitos ambientais do frio.",
+      "• Sentidos Sáurios: A língua de lagarto dos sáurios pode “provar” o ar, concedendo a eles +2 em rolagens de Perceber. Eles sempre são considerados guardas ativos para testes de Furtividade."
+    ]
+  }
+]

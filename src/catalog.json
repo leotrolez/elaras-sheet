@@ -1,0 +1,1619 @@
+[
+  {
+    "name": "Analfabeto",
+    "kind": "hindrances",
+    "page": 33,
+    "category": "Complicações",
+    "description": "Seu herói não consegue ler. Ele provavelmente pode assinar seu nome e sabe o significado de um sinal de PARE, mas pode fazer pouco mais que isso. Também não sabe muito sobre matemática. Consegue provavelmente efetuar 2+2=4, mas multiplicações e similares estão fora do seu alcance.\n\nA propósito, analfabetos não podem ler ou escrever em nenhum idioma, não importa quantos eles realmente falem.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-0"
+  },
+  {
+    "name": "Anêmico",
+    "kind": "hindrances",
+    "page": 33,
+    "category": "Complicações",
+    "description": "Um personagem anêmico é particularmente suscetível a infecções, doenças, efeitos ambientais e fadiga. Ele subtrai 2 de todos os testes de Fadiga como os feitos para resistir a veneno e doença (veja a página 122 para mais informações sobre Fadiga e os vários perigos que levam a ela).",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-1"
+  },
+  {
+    "name": "Arrogante",
+    "kind": "hindrances",
+    "page": 33,
+    "category": "Complicações",
+    "description": "Seu herói não pensa ser o melhor – ele sabe que é. Seja no que for – esgrima, kung fu, corrida – poucos se comparam as suas habilidades e ele alardeia isso a cada oportunidade que tem.\n\nSó vencer não é o bastante para o seu herói. Ele precisa dominar completamente o seu oponente. Sempre que houver sequer uma sombra de dúvida a respeito de quem é o melhor, deve humilhar seu oponente e provar poder alcançar a vitória a qualquer momento desejado. É o tipo de homem que desarma um oponente em um duelo só para assim poder pegar a sua espada e devolve-la com um sorriso desdenhoso.\n\nHeróis arrogantes sempre procuram pelo “chefe” em batalha, atacando lacaios menores apenas se ficarem em seu caminho.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-2"
+  },
+  {
+    "name": "Boca Grande",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Lábios frouxos afundam navios, diz o ditado. A boca do seu herói poderia afogar uma armada.\n\nSeu personagem não consegue guardar muito bem um segredo. Ele revela os planos e deixa escapar as coisas mais bem guardadas entre amigos, geralmente nos piores momentos possíveis.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-3"
+  },
+  {
+    "name": "Cauteloso",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Algumas pessoas acumulam inteligência demais. Este personagem personifica a cautela excessiva. Ele nunca toma decisões apressadas e gosta de planejar coisas até os mínimos detalhes antes de qualquer ação ser tomada.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-4"
+  },
+  {
+    "name": "Cego",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "O indivíduo é completamente cego. Ele sofre -6 em todas as tarefas físicas dependentes da visão (ou seja, praticamente tudo) e -2 na maior parte das tarefas sociais, pois não pode “ler” quem interage com ele tão bem como os outros.\n\nPor outro lado, personagens Cegos ganham à sua escolha uma Vantagem gratuita, a fim de compensar esta Complicação particularmente difícil.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-5"
+  },
+  {
+    "name": "Código De Honra",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Honra é muito importante para o seu personagem. Ele mantém sua palavra, não abusa ou mata prisioneiros e geralmente tenta operar dentro das noções particulares de seu mundo do comportamento adequado para um cavalheiro ou dama.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-6"
+  },
+  {
+    "name": "Covarde",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Nem todo mundo possui água gelada nas suas veias. Seu herói é suscetível à visão de sangue e vísceras e tem medo de se machucar. Ele subtrai 2 de todos os seus testes de Espírito baseados em medo.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-7"
+  },
+  {
+    "name": "Curioso",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Ela matou o gato e também pode matar seu herói. Personagens curiosos são facilmente arrastados para qualquer aventura. Eles têm de verificar tudo e sempre querem saber o que há por trás de um mistério em potencial.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-8"
+  },
+  {
+    "name": "Delirante",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Seu herói acredita em algo considerado muito estranho por todos os outros. Delírios Menores são inofensivos ou o personagem normalmente os guarda para si mesmo (o governo colocou sedativos em refrigerantes, cães podem falar, somos todos apenas personagens de algum jogo bizarro etc.).\n\nCom Delírios Maiores, ele frequentemente expressa seu ponto de vista sobre a situação e isso pode eventualmente levá-lo ao perigo (o governo é comandado por alienígenas, os hospitais são mortais, eu sou alérgico a armadura, zumbis são meus amigos).",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-9"
+  },
+  {
+    "name": "Desagradável",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Este camarada é mal-humorado e desagradável. Ninguém gosta dele e tem dificuldades em fazer qualquer coisa gentil pra quem quer que seja. Ele deve ser pago pelos seus aborrecimentos e nem mesmo aceita premiações graciosamente. Seu herói sofre -2 no seu Carisma.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-10"
+  },
+  {
+    "name": "Desajeitado",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Algumas pessoas simplesmente não são boas com dispositivos modernos. Personagens com este defeito sempre sofrem uma penalidade de -2 na perícia Consertar. Além disso, ao usar um dispositivo mecânico ou eletrônico, uma rolagem de 1 no seu dado de perícia (independente do seu Dado Selvagem) significa que o dispositivo foi quebrado. Reparar este item normalmente requer uma rolagem de Consertar com -2 e 1d6 horas para o reparo.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-11"
+  },
+  {
+    "name": "Desejo De Morrer",
+    "kind": "hindrances",
+    "page": 34,
+    "category": "Complicações",
+    "description": "Ter um desejo de morrer não significa que seu herói seja um suicida – mas ele quer morrer depois de completar algum objetivo importante. Talvez queira vingança pelo assassinato de sua família ou talvez esteja morrendo de alguma doença\n\ne queira partir em um lampejo de glória. Ele não vai jogar sua vida fora por qualquer razão, mas quando houver uma chance de completar o seu objetivo, fará qualquer coisa – e aceitará qualquer risco – para alcançá-lo.\n\nEssa normalmente é uma Complicação menor, a menos que o objetivo seja relativamente fácil de ser alcançado (muito raro).",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-12"
+  },
+  {
+    "name": "Duro De Ouvido",
+    "kind": "hindrances",
+    "page": 35,
+    "category": "Complicações",
+    "description": "Personagens que perderam parte ou toda a sua audição têm essa desvantagem. Como uma Complicação Menor, ele subtrai 2 de todas as rolagens de Perceber feitas para ouvir, incluindo acordar devido a ruídos altos. Uma Complicação maior significa que o personagem é surdo. Ele não pode ouvir e falha automaticamente em todas as rolagens de Perceber dependentes da audição.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-13"
+  },
+  {
+    "name": "Excesso De Confiança",
+    "kind": "hindrances",
+    "page": 35,
+    "category": "Complicações",
+    "description": "Não existe nada lá fora que seu herói não possa derrotar. Pelo menos é isso que pensa. Ele acredita poder fazer quase tudo e nunca quer fugir de um desafio. O herói não é um suicida, mas certamente faz mais do que dita o bom senso.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-14"
+  },
+  {
+    "name": "Feio",
+    "kind": "hindrances",
+    "page": 35,
+    "category": "Complicações",
+    "description": "Infelizmente, esse indivíduo acertou mais que alguns galhos de feiura na sua viagem de descida da árvore da vida. Seu Carisma é reduzido em 2 e geralmente é rejeitado por membros do sexo oposto.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-15"
+  },
+  {
+    "name": "Fobia",
+    "kind": "hindrances",
+    "page": 35,
+    "category": "Complicações",
+    "description": "Fobias são medos esmagadores e irracionais que permanecem com o herói pelo resto da sua vida. Sempre que um personagem estiver na presença de sua fobia, subtraia 2 de todos os testes de Característica no caso de uma Complicação Menor e 4 se o medo for uma Fobia Maior.\n\nFobias não devem ser muito óbvias – todos devem temer vampiros, por exemplo. Sendo assim, isto não é uma fobia – é senso comum. Ao invés disso, a fobia geralmente se concentra em algum elemento aleatório focado pela mente durante qualquer que seja o encontro causador deste terror. Lembre, fobias são medos irracionais.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-16"
+  },
+  {
+    "name": "Forasteiro",
+    "kind": "hindrances",
+    "page": 35,
+    "category": "Complicações",
+    "description": "Em uma sociedade formada por apenas alguns tipos de pessoas, o seu herói não é uma delas. Um índio em uma cidade do Velho Oeste, um alienígena em um jogo de ficção científica de fuzileiros humanos ou um meio orc em um grupo de elfos, anões e humanos são todos exemplos\n\nde Forasteiros. Habitantes locais são suscetíveis a aumentar os preços para o Forasteiro, ignorar seus pedidos de socorro e geralmente tratam-no como se fosse de uma classe mais baixa que a do resto de sua sociedade.\n\nAlém dos efeitos de interpretação acima, o Carisma do seu herói sofre um modificador de -2 em relação a todos menos o seu próprio povo.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-17"
+  },
+  {
+    "name": "Ganancioso",
+    "kind": "hindrances",
+    "page": 35,
+    "category": "Complicações",
+    "description": "Seu herói avarento mede seu valor em tesouro. Se for uma Complicação Menor, ele argumenta amargamente sobre qualquer despojo adquirido durante o jogo. Se for uma Complicação Maior, luta por qualquer coisa que considerar desleal e pode até mesmo matar pela sua “parte justa”.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-18"
+  },
+  {
+    "name": "Hábito",
+    "kind": "hindrances",
+    "page": 35,
+    "category": "Complicações",
+    "description": "Seu guerreiro possui um hábito irritante e constante de algum tipo. Talvez ele cutuque seu nariz, diga “cê sabe” em cada frase ou masque chiclete como se isso transbordasse estilo.\n\nUm Hábito Menor irrita aqueles ao seu redor, mas não é perigoso. Seu herói sofre -1 no Carisma.\n\nUm Hábito Maior é uma dependência física ou mental de alguma espécie, debilitante ou mesmo possivelmente mortal. Isso inclui o uso de drogas, alcoolismo ou talvez até mesmo um vício em realidade virtual num cenário de alta tecnologia. Um personagem que não receba sua dose precisa fazer um teste de Fadiga a cada 24 horas seguintes (veja Fadiga na página 122). A primeira rolagem cujo resultado seja uma falha faz o personagem ficar Fatigado, depois Exausto. O resultado final é um coma por uso de drogas pesadas ou um caso grave de choque em dependências como a de álcool ou Realidade Virtual. Tratamento médico pode amenizar os sintomas. Caso contrário, a vítima precisará viver com as penalidades por 1d6 dias. Posteriormente, o herói tem de pagar pela Complicação sacrificando uma oportunidade de Progresso ou eventualmente cairá de volta em seu vício.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-19"
+  },
+  {
+    "name": "Heroico",
+    "kind": "hindrances",
+    "page": 35,
+    "category": "Complicações",
+    "description": "Esta nobre alma nunca diz não a uma pessoa necessitada. Ela não precisa ficar feliz com isto, mas sempre virá em socorro daqueles que (pelo menos de forma aparente) não podem ajudar a si mesmos. É a primeira a correr para dentro de um prédio em chamas, geralmente aceita caçar monstros por pouco ou nenhum pagamento e normalmente é um alvo fácil para uma história triste.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-20"
+  },
+  {
+    "name": "Idoso",
+    "kind": "hindrances",
+    "page": 36,
+    "category": "Complicações",
+    "description": "Seu herói está ficando velho, mas não está totalmente pronto para o asilo. Sua Movimentação é reduzida em 1 e sua Força e Vigor caem um tipo de dado até um mínimo de d4 e não podem ser aumentados posteriormente.\n\nPor outro lado, a sabedoria dos seus anos concede ao herói 5 pontos de perícia adicionais que podem ser usados em quaisquer perícias associadas à Astúcia.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-21"
+  },
+  {
+    "name": "Inimigo",
+    "kind": "hindrances",
+    "page": 36,
+    "category": "Complicações",
+    "description": "Alguém lá fora odeia seu herói e quer vê-lo morto. O valor da Complicação depende do quanto o Inimigo é poderoso e de quantas vezes pode aparecer. Um Inimigo Menor pode ser um pistoleiro solitário buscando vingança. Um Inimigo Maior pode ser um pistoleiro sobrenatural que deseja o seu herói morto.\n\nSe o Inimigo um dia for vencido, o Mestre deve trabalhar gradualmente em um substituto ou o herói pode pagar pela Complicação sacrificando um Progresso.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-22"
+  },
+  {
+    "name": "Jovem",
+    "kind": "hindrances",
+    "page": 36,
+    "category": "Complicações",
+    "description": "Crianças às vezes são forçadas a partirem em aventuras perigosas devido a circunstâncias infelizes. Pense cuidadosamente antes de escolher essa Complicação, pois seu jovem começará com uma desvantagem significativa.\n\nHeróis jovens geralmente têm entre 8-12 anos de idade (em anos humanos – faça os devidos ajustes para raças com diferentes paradigmas de envelhecimento). Têm apenas três pontos para ajustar os seus atributos e 10 pontos de perícia. Em compensação, jovens como estes têm certa porção de sorte. Eles sacam um Bene adicional no início de cada sessão de jogo, em adição a quaisquer Benes adicionais ganhos de coisas como as Vantagens Sorte e Sorte Grande.\n\nSe o personagem viver tempo o suficiente para atingir a maturidade, a Complicação não precisa ser paga, porque o preço já foi pago pela Complicação por ter começado em desvantagem. Entretanto, para de receber o Bene adicional ao completar 18 anos de idade (ou a idade da maioridade no cenário em particular).",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-23"
+  },
+  {
+    "name": "Leal",
+    "kind": "hindrances",
+    "page": 36,
+    "category": "Complicações",
+    "description": "Seu personagem pode não ser um herói, mas daria a sua vida pelos seus amigos. Esse personagem nunca pode deixar um homem para trás se houver qualquer chance dele poder ajudar.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-24"
+  },
+  {
+    "name": "Manco",
+    "kind": "hindrances",
+    "page": 36,
+    "category": "Complicações",
+    "description": "Um ferimento do passado quase aleijou seu herói. Sua Movimentação básica é reduzida em 2 e ele rola apenas um d4 para correr. A Movimentação de um personagem nunca pode ser reduzida abaixo de 1.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-25"
+  },
+  {
+    "name": "Má Sorte",
+    "kind": "hindrances",
+    "page": 36,
+    "category": "Complicações",
+    "description": "Seu herói é um pouco menos sortudo que a maioria. Ele recebe um Bene a menos que o normal por sessão de jogo. Um personagem não pode ter Má Sorte e Sorte simultaneamente.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-26"
+  },
+  {
+    "name": "Obeso",
+    "kind": "hindrances",
+    "page": 36,
+    "category": "Complicações",
+    "description": "Pessoas particularmente grandes têm muita dificuldade em situações de perigo físico. Aqueles que suportam bem o seu próprio peso têm a Vantagem Musculoso. Aqueles que não lidam muito bem com ele são Obesos. Um personagem não pode ser ao mesmo tempo Musculoso e Obeso.\n\nUm herói Obeso adiciona 1 a sua Resistência, mas sua Movimentação é decrescida em 1 e seu dado de corrida é um d4. Personagens obesos também podem ter dificuldade para achar armaduras ou roupas adequadas ao seu tamanho, caber em espaços apertados ou mesmo viajar em espaços confinados, como poltronas de aviões ou carros compactos.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-27"
+  },
+  {
+    "name": "Olhos Ruins",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Os olhos do seu herói já não são mais o que costumavam ser. Com óculos, não há penalidade e a Complicação é apenas Menor. Caso perca seus óculos (geralmente uma chance de 50% quando for ferido ou nenhuma chance com uma “alça nerd”), sofre -2 de penalidade em qualquer rolagem de Característica feita para atirar ou Perceber alguma coisa a mais de 5 quadros (10m) de distância.\n\nEm cenários de baixa tecnologia, onde o herói não possa usar óculos, ter Olhos Ruins é uma Complicação Maior. Ele precisa subtrair 2 das rolagens de Características feitas para atacar ou perceber coisas a 5 quadros ou mais de distância.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-28"
+  },
+  {
+    "name": "Pacifista",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Seu herói despreza absolutamente a violência. Pacifismo Menor significa que ele luta apenas se não for dada nenhuma outra opção e jamais permite a matança de prisioneiros e outras vítimas indefesas.\n\nPacifistas Maiores não irão combater criaturas vivas sob quaisquer Circunstâncias. Eles podem se defender, mas não farão nada para ferir permanentemente criaturas vivas sencientes. Criaturas inegavelmente malignas, mortos vivos, demônios e similares não contam e podem ser atacadas ou mesmo feridos. Um Pacifista Maior também pode lutar com métodos não letais, como os seus próprios punhos. Tais personagens, no entanto, só o farão se obviamente ameaçados.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-29"
+  },
+  {
+    "name": "Peculiaridade",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Seu herói tem alguma fraqueza menor, normalmente engraçada, mas ocasionalmente lhe causa problemas. Um espadachim pode sempre tentar primeiro cortar suas iniciais em seus inimigos antes de atacar, um anão pode se vangloriar constantemente a respeito da sua cultura ou uma debutante esnobe pode não comer, beber ou socializar com as classes mais baixas.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-30"
+  },
+  {
+    "name": "Pequeno",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Seu personagem é muito magro, muito baixo ou os dois em relação a sua raça em particular. Subtraia 1 da sua Resistência pela sua estatura reduzida.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-31"
+  },
+  {
+    "name": "Pobreza",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "É dito que um tolo e sua grana logo se separam. Seu herói é este tolo. Ele começa com metade do dinheiro normal para o seu cenário e não pode simplesmente aparecer acumulando os recursos adquiridos depois de o jogo ter começa\n\ndo. No geral, o jogador reduz a metade os seus recursos totais a cada semana de jogo.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-32"
+  },
+  {
+    "name": "Procurado",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Seu herói cometeu algum crime no passado e será preso se for descoberto pelas autoridades. Isso pressupõe que o cenário possui leis e oficiais de polícia para impô-las.\n\nO nível da Complicação depende da seriedade do crime. Um herói com várias multas de estacionamento não pagas (em um jogo em que ele pode ter de dirigir ocasionalmente) possui uma Complicação Menor, assim como alguém procurado por um crime mais grave longe da área principal da campanha. Ser acusado de assassinato é uma Complicação Maior em quase qualquer cenário.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-33"
+  },
+  {
+    "name": "Sanguinário",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Seu herói nunca faz prisioneiros, exceto sob a supervisão direta de um superior. Isso pode causar grandes problemas em uma campanha militar, a menos que seus superiores tolerem esse tipo de coisa. Seu herói sofre -4 no seu Carisma somente se seus hábitos cruéis forem conhecidos.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-34"
+  },
+  {
+    "name": "São Tomé",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Algumas pessoas não acreditam no sobrenatural até estarem pela metade dentro da garganta de alguma criatura. São pessoas céticas que tentam o seu melhor para racionalizar eventos sobrenaturais. Mesmo que um São Tomé perceba a existência do sobrenatural, ele ainda tentará racionalizar acontecimentos estranhos, seguindo pistas falsas e ignorando evidências.\n\nSãos Tomés sofrem -2 nos seus testes de Medo caso sejam confrontados com o horror sobrenatural inegável.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-35"
+  },
+  {
+    "name": "Sem Noção",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Seu herói não é tão consciente de seu mundo quanto à maioria das pessoas. Ele sofre -2 em rolagens de Conhecimento Comum.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-36"
+  },
+  {
+    "name": "Teimoso",
+    "kind": "hindrances",
+    "page": 37,
+    "category": "Complicações",
+    "description": "Este indivíduo sempre quer as coisas do seu jeito e nunca admite estar errado. Mesmo quando é dolorosamente óbvio que cometeu um erro, tenta justificá-lo com meias-verdades e racionalizações.",
+    "requirements": "",
+    "severities": [
+      "Menor"
+    ],
+    "id": "hindrances-37"
+  },
+  {
+    "name": "Um Braço Só",
+    "kind": "hindrances",
+    "page": 38,
+    "category": "Complicações",
+    "description": "Seja por nascimento ou batalha, seu herói perdeu um braço. Por sorte, o seu outro é (agora) o braço “bom”. Tarefas que requerem duas mãos, como Escalar, sofrem -4 de penalidade.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-38"
+  },
+  {
+    "name": "Um Olho Só",
+    "kind": "hindrances",
+    "page": 38,
+    "category": "Complicações",
+    "description": "Seu herói perdeu um olho por alguma razão desafortunada. Se não usar um tapa-olho ou comprar um substituto de vidro (normalmente $500), sofre -1 no seu Carisma pelo ferimento grotesco.\n\nSofre -2 em qualquer rolagem de Característica que exija percepção de profundidade, como Arremessar ou Atirar, saltar uma ravina ou telhado e assim por diante.",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-39"
+  },
+  {
+    "name": "Uma Perna Só",
+    "kind": "hindrances",
+    "page": 38,
+    "category": "Complicações",
+    "description": "Com uma prótese, Uma Perna age exatamente como na Complicação Manco, reduzindo a Movimentação em 2 e as rolagens de corrida são feitas com um d4. Sem uma prótese, a Movimentação do Personagem é 2 e ele nunca pode correr. Ele também sofre -2 em Características que exijam mobilidade, como Escalar e Lutar. Um personagem com uma perna também sofre uma penalidade de -2 em sua perícia Nadar (e Movimentação).",
+    "requirements": "",
+    "severities": [
+      "Maior"
+    ],
+    "id": "hindrances-40"
+  },
+  {
+    "name": "Vingativo",
+    "kind": "hindrances",
+    "page": 38,
+    "category": "Complicações",
+    "description": "Seu personagem sempre tenta reparar um erro que sinta ter sido cometido contra ele. Se essa for uma Complicação Menor, ele normalmente procura por vingança legalmente. O tipo e a urgência de sua vingança variam de personagem para personagem, é claro. Alguns conspiram e planejam por meses para conseguir o que enxergam como justiça.\n\nSe essa for uma Complicação Maior, seu personagem matará para retificar a sua injustiça.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-41"
+  },
+  {
+    "name": "Voto",
+    "kind": "hindrances",
+    "page": 38,
+    "category": "Complicações",
+    "description": "O personagem possui um voto de algum tipo. Se é uma Complicação Maior ou Menor depende do Voto em si. Alguns podem ter votos para com ordens ou causas específicas, para com o juramento Hipocrático, livrar o mundo do mal e assim por diante. O risco em cumprir o Voto e quão ocasionalmente isso pode ocorrer determinam o nível da Complicação. Qualquer que seja o Voto, ele só será uma Complicação se realmente aparecer em jogo de tempos em tempos e causar ao personagem algum desconforto.\n\nVANTAGENS\n\nAbaixo está uma lista de Vantagens comuns a muitos cenários. Você também encontrará mais Vantagens em livros de cenários oficiais de Savage Worlds. Todas estão agrupadas por tipo para facilitar durante a criação do personagem. A menos que uma Vantagem diga especificamente o contrário, elas podem ser escolhidas apenas uma vez.\n\n• Requisitos: Abaixo de cada Vantagem está qualquer perícia e Estágio exigido para tê-la. Um personagem Novato não pode comprar uma Vantagem Lendária, por exemplo. Um personagem pode sempre comprar uma Vantagem de um Estágio igual ou menor que o seu.\n\n• Vantagens Aprimoradas: Algumas Vantagens possuem efeitos aprimorados se você comprar “níveis” adicionais nelas, como Atraente e Muito Atraente ou Rico e Podre de Rico. Para comprar uma Vantagem Aprimorada, você precisa ter todas as versões anteriores de uma Vantagem. Você precisa escolher Rico antes de comprar Podre de Rico, por exemplo.\n\nVANTAGENS DE ANTECEDENTES\n\nEstas Vantagens são benefícios hereditários e históricos ou reações treinadas que se desenvolvem em um personagem depois de treinamento prolongado ou exposição a certos eventos.\n\nJogadores podem escolher estas Vantagens depois da criação do personagem, mas o Mestre pode exigir um pouco mais de racionalização. Um indivíduo pode escolher a Vantagem Atraente, por exemplo, se arrumando, passando por uma transformação e geralmente dando mais atenção a sua aparência. Personagens também podem ser capazes de ganhar a Vantagem Antecedente Arcano, caso encontrem um livro de conhecimento proibido ou treinando sob a tutela de outro indivíduo arcano no seu grupo.",
+    "requirements": "",
+    "severities": [
+      "Menor",
+      "Maior"
+    ],
+    "id": "hindrances-42"
+  },
+  {
+    "name": "Ambidestro",
+    "kind": "advantages",
+    "page": 38,
+    "category": "Antecedentes",
+    "description": "Seu herói é hábil tanto com a sua mão esquerda quanto com a sua direita. Personagens normalmente sofrem uma penalidade de -2 ao executar tarefas físicas utilizando a mão inábil (presume-se que personagens sejam destros). Com essa Vantagem, seu herói ignora a penalidade de -2 por usar sua mão inábil (veja a página 96).",
+    "requirements": "Novato, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-43"
+  },
+  {
+    "name": "Antecedente Arcano",
+    "kind": "advantages",
+    "page": 39,
+    "category": "Antecedentes",
+    "description": "Essa é a Vantagem que o seu personagem precisa comprar para ter qualquer tipo de habilidade mágica, psiônica ou sobrenatural. Veja o Capítulo Cinco para uma descrição completa de Antecedentes Arcanos.",
+    "requirements": "Novato, Especial",
+    "severities": [],
+    "id": "advantages-44"
+  },
+  {
+    "name": "Atraente",
+    "kind": "advantages",
+    "page": 39,
+    "category": "Antecedentes",
+    "description": "Não é segredo que pessoas bonitas têm mais facilidade em seguir o seu caminho na vida. Essa Vantagem concede ao seu belo ou atraente personagem +2 no Carisma.",
+    "requirements": "Novato, Vigor d6+",
+    "severities": [],
+    "id": "advantages-45"
+  },
+  {
+    "name": "Muito Atraente",
+    "kind": "advantages",
+    "page": 39,
+    "category": "Antecedentes",
+    "description": "Seu herói é lindo de morrer. O seu Carisma é aumentado em +4.",
+    "requirements": "Novato, Atraente",
+    "severities": [],
+    "id": "advantages-46"
+  },
+  {
+    "name": "Corajoso",
+    "kind": "advantages",
+    "page": 39,
+    "category": "Antecedentes",
+    "description": "Aqueles com essa Vantagem aprenderam a dominar o seu medo. Ou talvez estejam tão calejados ou emocionalmente distantes que perderam sua reação normal de “lutar ou fugir”. De qualquer maneira, seu herói adiciona +2 a testes de Medo. Caso o personagem esteja em um cenário que usa Coragem como uma Regra de Ambientação, o bônus é adicionado a perícia também.",
+    "requirements": "Novato, Espírito d6+",
+    "severities": [],
+    "id": "advantages-47"
+  },
+  {
+    "name": "Cura Rápida",
+    "kind": "advantages",
+    "page": 39,
+    "category": "Antecedentes",
+    "description": "Alguns indivíduos parecem se curar mais rápido que os outros. Aqueles com essa benção adicionam +2 a suas rolagens de Vigor em seus testes para cura natural. Veja a página 104 para regras completas de Cura.",
+    "requirements": "Novato, Vigor d8+",
+    "severities": [],
+    "id": "advantages-48"
+  },
+  {
+    "name": "Furioso",
+    "kind": "advantages",
+    "page": 39,
+    "category": "Antecedentes",
+    "description": "Logo após sofrer um ferimento (incluindo um resultado de Abalado por dano físico), seu herói precisa fazer uma rolagem de Astúcia ou entrará em fúria.\n\nEnquanto em fúria, seu Aparar é reduzido em 2, mas adiciona +2 em todas as rolagens de Lutar, Força, dano corporal e Resistência. O guerreiro ignora todos os modificadores de ferimento enquanto em fúria, mas não pode usar quaisquer perícias, Vantagens ou manobras que exijam concentração, incluindo Atirar e Provocar, exceto Intimidação.\n\nNota de Design Vantagens de Antecedentes\n\nEm versões anteriores do Savage Worlds,\n\nVantagens de Antecedentes só podiam ser pegas sem a permissão especial do Mestre durante a criação do personagem.\n\nVantagens de Antecedentes só podiam ser pegas com a permissão especial do Mestre durante a criação do personagem.\n\nMudamos essa regra e agora você pode pegar Vantagens de Antecedentes à medida\n\nque progride assim como qualquer outra. Se você se importa com a racionalização de\n\ntais coisas, pode querer associá-las a um evento no seu jogo. Se um jogador deseja a\n\nVantagem Cura Rápida, por exemplo, você pode dizer (ou o Mestre pode exigir) que foi a exposição à cura mágica do grupo ou uma nova ênfase na saúde e forma que deram ao\n\nherói esta habilidade.\n\nFuriosos atacam de forma imprudente. Sempre que seu dado de Lutar for um 1 (independente do seu Dado Selvagem), ele atinge um alvo adjacente aleatório (não o alvo original). O ataque pode atingir tanto um amigo quanto um inimigo. Se não houver outros alvos adjacentes, o golpe simplesmente erra.\n\nO personagem pode encerrar sua fúria não fazendo nada (nem mesmo se mover) por uma ação completa e efetuando uma rolagem de Astúcia com -2.",
+    "requirements": "Novato",
+    "severities": [],
+    "id": "advantages-49"
+  },
+  {
+    "name": "Ligeiro",
+    "kind": "advantages",
+    "page": 40,
+    "category": "Antecedentes",
+    "description": "A Movimentação do herói é aumentada em +2 e ele rola um d10 ao invés de um d6 para correr.",
+    "requirements": "Novato, Agilidade d6+",
+    "severities": [],
+    "id": "advantages-50"
+  },
+  {
+    "name": "Linguista",
+    "kind": "advantages",
+    "page": 40,
+    "category": "Antecedentes",
+    "description": "O personagem possui um ouvido para idiomas e um talento raro para reconhecer similaridades entre eles. Um personagem com essa Vantagem começa com um número de idiomas igual ao seu dado de Astúcia, e pode fazer uma rolagem de Astúcia com -2 para se fazer entender em qualquer idioma ou dialeto que tenha ouvido ser falado por pelo menos uma semana.",
+    "requirements": "Novato, Astúcia d6+",
+    "severities": [],
+    "id": "advantages-51"
+  },
+  {
+    "name": "Musculoso",
+    "kind": "advantages",
+    "page": 40,
+    "category": "Antecedentes",
+    "description": "O seu lutador é muito grande ou talvez apenas esteja em boa forma. Sua massa resiste a dano melhor que a da maioria e adiciona +1 a sua Resistência. Além disso, o personagem pode carregar mais do que o proporcional a sua Força: quatro vezes a sua Força em quilos sem penalidade ao invés do normal de 2,5 vezes a sua Força.",
+    "requirements": "Novato, Força e Vigor d6+",
+    "severities": [],
+    "id": "advantages-52"
+  },
+  {
+    "name": "Nobre",
+    "kind": "advantages",
+    "page": 40,
+    "category": "Antecedentes",
+    "description": "Aqueles nascidos de sangue nobre têm muitos privilégios na vida, mas frequentemente possuem também muitas responsabilidades. Nobres possuem posição elevada em suas sociedades, têm direto a tratamento especial de seus inimigos, recebem +2 de Carisma e também possuem a Vantagem Rico. Isso dá ao herói diversas Vantagens pelo preço de uma, mas as responsabilidades mais do que compensam os privilégios adicionais. Nobres normalmente possuem tropas sob o seu comando, bem como uma terra, uma casa de sua família e outras posses. Tudo isso deve ser determinado pelo Mestre e equilibrado pelos sérios encargos enfrentados pelo personagem.\n\nComo exemplo, um personagem em uma campanha de fantasia poderia ter uma companhia\n\nde espadachins, um pequeno forte e mesmo uma espada mágica herdada de seu pai. Entretanto, também teria uma região inteira para administrar, criminosos para julgar, justiça para aplicar e um vizinho invejoso cobiçando a sua terra e constantemente conspirando contra ele na corte.",
+    "requirements": "Novato",
+    "severities": [],
+    "id": "advantages-53"
+  },
+  {
+    "name": "Prontidão",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "Pouca coisa passa pelo seu herói. Ele é muito observador e perceptivo, e adiciona +2 a suas rolagens de Perceber para ouvir, ver ou de qualquer outra maneira sentir o mundo ao seu redor.",
+    "requirements": "Novato",
+    "severities": [],
+    "id": "advantages-54"
+  },
+  {
+    "name": "Rápido",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "Personagens rápidos possuem reflexos velozes como um raio e uma cabeça fria. Sempre que você sacar um 5 ou menos em combate, você pode descartar e sacar de novo até pegar uma carta superior a 5.\n\nPersonagens com ambas as Vantagens Focado e Rápido sacam suas cartas adicionais e pegam a melhor. Se esta carta for um Cinco ou menor, a Vantagem Rápido pode ser usada para sacar uma substituta até sair um Seis ou maior.",
+    "requirements": "Novato, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-55"
+  },
+  {
+    "name": "Resistência Arcana",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "Esse indivíduo é particularmente resistente à magia (inclusive psiquismo, ciência estranha, etc.), seja por natureza ou herdado. Ele age como se tivesse 2 pontos de Armadura quando for atingido por poderes arcanos causadores de dano e adiciona +2 a suas rolagens de Características para resistir a poderes opostos. Mesmo poderes arcanos amigáveis precisam subtrair esse modificador para afetar o herói resistente.",
+    "requirements": "Novato, Espírito d8+",
+    "severities": [],
+    "id": "advantages-56"
+  },
+  {
+    "name": "Resistência Arcana Aprimorada",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "Como acima, mas a Armadura e a resistência são aumentadas para 4.",
+    "requirements": "Novato, Resistência Arcana",
+    "severities": [],
+    "id": "advantages-57"
+  },
+  {
+    "name": "Rico",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "Tenha seu herói nascido com uma colher de prata na boca ou conquistado através de trabalho duro, ele possui mais dinheiro que a maioria. Heróis ricos iniciam com três vezes os recursos inicias normais para o cenário. Se uma renda regular for apropriada para o cenário, o herói recebe o equivalente moderno de um salário anual de $150.000.",
+    "requirements": "Novato",
+    "severities": [],
+    "id": "advantages-58"
+  },
+  {
+    "name": "Podre De Rico",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "Esse personagem é muito rico. Ele possui cinco vezes os recursos iniciais para o cenário e, se apropriado, uma renda anual de cerca de $500.000.\n\nPersonagens abastados também devem ter um histórico muito completo. Isso precisa ser trabalhado com o Mestre e vem com muitos outros recursos bem como com onerosas responsabilidades.",
+    "requirements": "Novato, Rico ou Nobre",
+    "severities": [],
+    "id": "advantages-59"
+  },
+  {
+    "name": "Sorte",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "O aventureiro parece ser abençoado pelo destino, carma, os deuses ou qualquer força externa na qual ele acredite (ou que acredite nele!). Ele saca um Bene adicional no início de cada sessão de jogo, permitindo-o ser bem-sucedido em tarefas importantes mais frequentemente que a maioria e sobreviver a perigos incríveis.",
+    "requirements": "Novato",
+    "severities": [],
+    "id": "advantages-60"
+  },
+  {
+    "name": "Sorte Grande",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "Como acima, mas o jogador saca dois Benes adicionais no início de cada sessão.\n\nVANTAGENS DE COMBATE\n\nEstas Vantagens são projetadas para ajudar o seu herói a causar danos terríveis – ou sobreviver a eles – nas batalhas sangrentas de Savage Worlds.",
+    "requirements": "Novato, Sorte",
+    "severities": [],
+    "id": "advantages-61"
+  },
+  {
+    "name": "Arma Predileta",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "O herói conhece uma única arma (Excalibur, Velha Betsy, Ferroada) como a palma de sua mão. Se esta arma for utilizada, ele adiciona +1 a suas rolagens de Arremessar, Atirar ou Lutar. Um herói pode pegar esta Vantagem varias vezes, aplicando-a cada vez a uma arma diferente. Se uma Arma Predileta for perdida, o herói pode substituí-la, mas os benefícios da Vantagem não voltam por duas semanas de jogo.",
+    "requirements": "Novato, Atirar ou Lutar d10+",
+    "severities": [],
+    "id": "advantages-62"
+  },
+  {
+    "name": "Arma Predileta Aprimorada",
+    "kind": "advantages",
+    "page": 41,
+    "category": "Antecedentes",
+    "description": "Como acima, mas o bônus ao usar a arma aumenta para +2.",
+    "requirements": "Veterano, Arma Predileta",
+    "severities": [],
+    "id": "advantages-63"
+  },
+  {
+    "name": "Artista Marcial",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Esse personagem é altamente treinado em combate corpo a corpo. Ele nunca é considerado desarmado em combate e nunca está sujeito a regra de Defensor Desarmado (página 98). Com um ataque desarmado bem-sucedido, ele adiciona +d4 a sua rolagem de Força (como se usasse uma arma pequena).",
+    "requirements": "Novato, Lutar d6+",
+    "severities": [],
+    "id": "advantages-64"
+  },
+  {
+    "name": "Artista Marcial Aprimorado",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "O personagem agora adiciona +d6 ao seu dano desarmado.",
+    "requirements": "Veterano, Artista Marcial, Lutar d10+",
+    "severities": [],
+    "id": "advantages-65"
+  },
+  {
+    "name": "Atacar Primeiro",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Uma vez por turno o herói (se não Abalado) recebe um ataque livre de Lutar contra um único inimigo que se mova adjacente a ele. Isso interrompe automaticamente a ação do oponente e não custa ao herói a sua ação caso esteja em Espera ou ainda não tenha agido nesta rodada.",
+    "requirements": "Novato, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-66"
+  },
+  {
+    "name": "Atacar Primeiro Aprimorado",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Como acima, mas o herói pode fazer um ataque livre contra cada e todo inimigo que se mover adjacente a ele.",
+    "requirements": "Heroico, Atacar Primeiro",
+    "severities": [],
+    "id": "advantages-67"
+  },
+  {
+    "name": "Atirador",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "O herói é excelente em efetuar disparos controlados e precisos. Caso não se mova em um turno, pode atirar como se tivesse efetuado a manobra Mirar. Atirador nunca pode ser usado com uma Cadência de Tiro maior que 1.\n\nAtirador funciona tanto com Arremessar quanto com Atirar.",
+    "requirements": "Experiente",
+    "severities": [],
+    "id": "advantages-68"
+  },
+  {
+    "name": "Bloquear",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Heróis que se engajam frequentemente em combates corpo a corpo são mais hábeis em defesa pessoal do que a maioria. Eles aprendem não só como atacar, mas também como bloquear os golpes de seus oponentes. Um guerreiro com essa Vantagem adiciona +1 a seu Aparar.",
+    "requirements": "Experiente, Lutar d8+",
+    "severities": [],
+    "id": "advantages-69"
+  },
+  {
+    "name": "Bloquear Aprimorado",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Como acima, mas o herói adiciona +2 a seu Aparar.",
+    "requirements": "Veterano, Bloquear",
+    "severities": [],
+    "id": "advantages-70"
+  },
+  {
+    "name": "Brigão",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Lutas frequentes com suas mãos nuas deram a esse valentão um soco poderoso. Quando ele atinge um oponente com uma rolagem bem sucedida de Lutar desarmado, adiciona +2 ao seu dano.",
+    "requirements": "Novato, Força d8+",
+    "severities": [],
+    "id": "advantages-71"
+  },
+  {
+    "name": "Pugilista",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Quando o pugilista consegue uma ampliação em seu ataque de Lutar desarmado, ele rola um d8 ao invés de um d6.",
+    "requirements": "Experiente, Brigão",
+    "severities": [],
+    "id": "advantages-72"
+  },
+  {
+    "name": "Contra-Ataque",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Guerreiros com essa vantagem sabem como responder instantaneamente ao erro de um inimigo. Uma vez por rodada (se não estiver Abalado), o personagem recebe um ataque livre de Lutar contra um inimigo adjacente que tenha falhado em um ataque de Lutar contra ele. Esse ataque é feito com -2 e o Contra-Ataque precisa ser um ataque normal (não um Desarmar, Ataque Selvagem ou outras manobras), e não deve ser combinado com Frenesi ou Varrer. Ele pode ser usado com a manobra Defender, mas não com Defesa Total.",
+    "requirements": "Experiente, Lutar d8+",
+    "severities": [],
+    "id": "advantages-73"
+  },
+  {
+    "name": "Contra-Ataque Aprimorado",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Como acima, mas o personagem pode ignorar o -2 de penalidade.",
+    "requirements": "Veterano, Contra-Ataque",
+    "severities": [],
+    "id": "advantages-74"
+  },
+  {
+    "name": "Duro De Matar",
+    "kind": "advantages",
+    "page": 42,
+    "category": "Antecedentes",
+    "description": "Este aventureiro tem mais vidas do que um caminhão cheio de gatos. Se forçado a fazer uma rolagem de Vigor devido a Incapacitação, ele pode ignorar seus modificadores de ferimento. Isso se aplica apenas a rolagens de Vigor solicitadas para resistir a Incapacitação ou morte (veja a página 93). Ele ainda sofre de modificadores de ferimento em outras rolagens de Característica normalmente.",
+    "requirements": "Carta Selvagem, Novato, Espírito d8+",
+    "severities": [],
+    "id": "advantages-75"
+  },
+  {
+    "name": "Muito Duro De Matar",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "Seu herói é tão difícil de matar quanto Rasputin. Caso ele seja mesmo “morto”, jogue um dado. Em um resultado impar, está morto. Em um resultado par, está Incapacitado, mas de alguma forma escapa da morte. Ele pode ser capturado, despojado de todos os seus pertences ou erroneamente deixado para morrer, mas, de alguma maneira, sobrevive.",
+    "requirements": "Veterano, Duro de Matar",
+    "severities": [],
+    "id": "advantages-76"
+  },
+  {
+    "name": "Esquiva",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "Alguns indivíduos capazes sabem como sair do caminho do perigo. Essa Vantagem permite que usem cobertura, movimentação e ocultação para torná-los mais difíceis de atingir. A menos que sejam vítimas de um ataque de surpresa e pegos completamente desprevenidos, atacantes precisam subtrair 1 de suas rolagens de ataques à distância para mirar neles.\n\nPersonagens tentando escapar de ataques de área também podem adicionar +1 a suas rolagens de Agilidade (se permitido).",
+    "requirements": "Experiente, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-77"
+  },
+  {
+    "name": "Esquiva Aprimorada",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "Como acima, mas atacantes subtraem 2 de suas rolagens de ataque e o personagem adiciona +2 para escapar de armas de área caso seja permitido.",
+    "requirements": "Veterano, Esquiva",
+    "severities": [],
+    "id": "advantages-78"
+  },
+  {
+    "name": "Florentino",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "O personagem é um mestre em empunhar duas armas ao mesmo tempo. Ele acrescenta +1 as suas rolagens de Lutar contra um oponente com uma única arma e nenhum escudo. Além disso, oponentes subtraem 1 de qualquer bônus de “agrupar” que normalmente teriam contra o herói, em razão de suas duas lâminas velozes aparando seus golpes.",
+    "requirements": "Novato, Agilidade d8+, Lutar d8+",
+    "severities": [],
+    "id": "advantages-79"
+  },
+  {
+    "name": "Focado",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "Guerreiros que conseguem manter a calma quando todos os outros estão correndo para achar cobertura são participantes mortais em combate.\n\nUm herói com essa Vantagem saca uma Carta de Ação adicional em combate e age na melhor delas.",
+    "requirements": "Experiente, Astúcia d8+",
+    "severities": [],
+    "id": "advantages-80"
+  },
+  {
+    "name": "Extremamente Focado",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "Como acima, mas o herói saca três cartas.",
+    "requirements": "Experiente, Focado",
+    "severities": [],
+    "id": "advantages-81"
+  },
+  {
+    "name": "Frenesi",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "Guerreiros frenéticos fazem ataques corporais rápidos e furiosos, sacrificando precisão por velocidade brutal. Isso lhes permite fazer um ataque extra de Lutar por rodada com uma penalidade de -2 em todas as rolagens de Lutar. Este ataque deve acontecer ao mesmo tempo que o outro ataque de Lutar, embora possa atingir quaisquer dois inimigos adjacentes ao herói (Cartas Selvagens jogam dois dados de Lutar e um Dado Selvagem). A penalidade de -2 é subtraída de todos os ataques.\n\nUm personagem armado com duas armas ainda faz apenas um ataque extra.",
+    "requirements": "Experiente, Lutar d10+",
+    "severities": [],
+    "id": "advantages-82"
+  },
+  {
+    "name": "Frenesi Aprimorado",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "Como acima, mas o personagem pode ignorar a penalidade de -2 de Frenesi.",
+    "requirements": "Veterano, Frenesi",
+    "severities": [],
+    "id": "advantages-83"
+  },
+  {
+    "name": "Impulso",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "No momento em que esse herói espirituoso coloca o seu coração em algo isso tende a gerar grandes frutos. Ao gastar um Bene em uma rolagem de Característica (incluindo rolagens de Absorção), adicione +2 ao resultado final.",
+    "requirements": "Novato, Espírito d8+",
+    "severities": [],
+    "id": "advantages-84"
+  },
+  {
+    "name": "Instinto Assassino",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "O herói odeia perder. Se empatar em uma rolagem resistida de qualquer tipo, ele vence. Além disso, se seu dado de perícia tirar um 1, ele pode jogá-lo novamente (mas deve manter a segunda rolagem, mesmo se ela for outro 1).",
+    "requirements": "Heroico",
+    "severities": [],
+    "id": "advantages-85"
+  },
+  {
+    "name": "Lutador Improvisador",
+    "kind": "advantages",
+    "page": 43,
+    "category": "Antecedentes",
+    "description": "Heróis frequentemente se veem lutando com pedaços de equipamento ou mobília não projetados para combate. Um personagem com essa Vantagem tem um instinto para usar tais armas improvisadas e não sofre a penalidade habitual de -1 para ataque e Aparar ao empunhá-las. Veja a página 95 para detalhes.",
+    "requirements": "Experiente, Astúcia d6+",
+    "severities": [],
+    "id": "advantages-86"
+  },
+  {
+    "name": "Lutar Com Duas Armas",
+    "kind": "advantages",
+    "page": 44,
+    "category": "Antecedentes",
+    "description": "Um herói com esta Vantagem não é Ambidestro – ele simplesmente aprendeu a lutar com duas armas (ou ambos os punhos) ao mesmo tempo. Ao atacar com uma arma em cada mão, ele joga cada ataque separadamente, mas ignora a penalidade de ação múltipla (veja a página 88).",
+    "requirements": "Novato, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-87"
+  },
+  {
+    "name": "Mãos Firmes",
+    "kind": "advantages",
+    "page": 44,
+    "category": "Antecedentes",
+    "description": "Seu herói ignora a penalidade de “plataforma instável” por atirar do dorso de animais ou enquanto está em veículos em movimento. Além disso, caso realize ações enquanto está Correndo (veja a página 88), sua penalidade é de -1 ao invés de -2.",
+    "requirements": "Novato, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-88"
+  },
+  {
+    "name": "Matador De Gigantes",
+    "kind": "advantages",
+    "page": 44,
+    "category": "Antecedentes",
+    "description": "Quanto maiores eles forem mais difíceis serão de matar. Pelo menos para a maioria. Mas o seu herói sabe como encontrar os pontos fracos em criaturas massivas.\n\nSeu herói causa +1d6 de dano ao atacar criaturas três tamanhos ou maiores do que ele mesmo. Um ogro (Tamanho +3) com esta habilidade, por exemplo, ganha o bônus apenas contra criaturas de Tamanho +6 ou superior. No entanto, um Matador de Gigantes humano (Tamanho 0) pode reivindicar o bônus contra o ogro.",
+    "requirements": "Veterano",
+    "severities": [],
+    "id": "advantages-89"
+  },
+  {
+    "name": "Nervos De Aço",
+    "kind": "advantages",
+    "page": 44,
+    "category": "Antecedentes",
+    "description": "Seu herói aprendeu a lutar sob a dor mais intensa. Ele pode ignorar 1 ponto de penalidades de ferimento.",
+    "requirements": "Carta Selvagem, Novato, Vigor d8+",
+    "severities": [],
+    "id": "advantages-90"
+  },
+  {
+    "name": "Nervos De Aço Aprimorado",
+    "kind": "advantages",
+    "page": 44,
+    "category": "Antecedentes",
+    "description": "O herói ignora 2 pontos de penalidades de ferimento.",
+    "requirements": "Novato, Nervos de Aço",
+    "severities": [],
+    "id": "advantages-91"
+  },
+  {
+    "name": "Reflexos De Combate",
+    "kind": "advantages",
+    "page": 44,
+    "category": "Antecedentes",
+    "description": "Seu aventureiro se recupera rapidamente de choques e traumas. Ele adiciona +2 a sua rolagem de Espírito para se recuperar do estado Abalado.",
+    "requirements": "Experiente",
+    "severities": [],
+    "id": "advantages-92"
+  },
+  {
+    "name": "Retirada",
+    "kind": "advantages",
+    "page": 44,
+    "category": "Antecedentes",
+    "description": "Normalmente quando um personagem se retira de um combate corporal, seus atacantes recebem um ataque livre antes que ele o faça – uma proposta muito perigosa para maioria. Seu herói é adepto da retirada de um engajamento.\n\nFaça uma rolagem de Agilidade. Caso seja bem-sucedido, um oponente não recebe um ataque livre a qualquer hora em que você se desengajar de um combate (veja a página 103).",
+    "requirements": "Novato, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-93"
+  },
+  {
+    "name": "Retirada Rápida",
+    "kind": "advantages",
+    "page": 44,
+    "category": "Antecedentes",
+    "description": "Como acima, mas, se você for bem-sucedido com uma ampliação, todos os oponentes atualmente em combate corporal com o personagem perdem seu ataque livre à medida que seu guerreiro se retira.",
+    "requirements": "Novato, Retirada",
+    "severities": [],
+    "id": "advantages-94"
+  },
+  {
+    "name": "Rock And Roll!",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "Alguns atiradores veteranos aprendem como compensar o recuo de armas automáticas. Se um personagem com essa Vantagem não se mover, pode ignorar a penalidade de recuo por atirar com uma arma em modo automático.",
+    "requirements": "Experiente, Atirar d8+",
+    "severities": [],
+    "id": "advantages-95"
+  },
+  {
+    "name": "Saque Rápido",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "Essa Vantagem permite a um herói sacar uma arma como uma ação livre (ignorando a penalidade habitual de -2 por ação múltipla se ele também optar por atirar). Caso o personagem tenha de fazer uma rolagem de Agilidade para sacar uma arma (veja a página 89), ele adiciona +2 a rolagem.",
+    "requirements": "Novato, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-96"
+  },
+  {
+    "name": "Sem Piedade",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "O personagem pode gastar um Bene para refazer qualquer rolagem de dano, incluindo aquelas feitas para ataques de área.",
+    "requirements": "Experiente",
+    "severities": [],
+    "id": "advantages-97"
+  },
+  {
+    "name": "Varredura",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "Varredura permite a um personagem efetuar um único ataque de Lutar e aplicá-lo contra todos os alvos adjacentes atuais com -2 de penalidade (tanto amigos quanto inimigos – tenham cuidado). Resolva cada rolagem de dano separadamente. O ataque é aplicado imediatamente quando rolado e afeta apenas alvos adjacentes neste momento.\n\nUm personagem não pode usar Varredura numa mesma rodada em que usa Frenesi. Também não pode Varrer mais de uma vez por rodada ou com uma segunda arma empunhada em outra mão. Na realidade, o herói pode efetuar a Varredura apenas uma vez por ação, a menos que ele, de alguma forma, consiga duas ações completas (talvez sob o efeito de um feitiço ou poder, por exemplo).",
+    "requirements": "Novato, Força d8+, Lutar d8+",
+    "severities": [],
+    "id": "advantages-98"
+  },
+  {
+    "name": "Varredura Aprimorada",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "Como acima, mas o herói pode ignorar o -2 de penalidade.\n\nVANTAGENS DE CARTA SELVAGEM\n\nAs Vantagens a seguir funcionam apenas quando o personagem saca um Curinga durante combate. Os efeitos da Vantagem são adicionais aos habituais de se sacar um Curinga.",
+    "requirements": "Veterano, Varredura",
+    "severities": [],
+    "id": "advantages-99"
+  },
+  {
+    "name": "Golpe Poderoso",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "O personagem dobra seu dano total ao efetuar um ataque bem-sucedido de Lutar nesta rodada.",
+    "requirements": "Carta Selvagem, Experiente, Lutar d10+",
+    "severities": [],
+    "id": "advantages-100"
+  },
+  {
+    "name": "Surto De Poder",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "Essa Vantagem é para aqueles personagens com Antecedentes Arcanos. Ao sacar um Curinga, o personagem recupera 2d6 Pontos de Poder. Ele não pode exceder seu limite habitual.",
+    "requirements": "Carta Selvagem, Experiente, perícia arcana d10+",
+    "severities": [],
+    "id": "advantages-101"
+  },
+  {
+    "name": "Tiro Mortal",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "O personagem dobra seu dano total ao efetuar um ataque bem-sucedido de Arremessar ou Atirar nesta rodada.\n\nVANTAGENS ESTRANHAS\n\nVantagens Estranhas são levemente sobrenaturais e apropriadas apenas a jogos com tais elementos.",
+    "requirements": "Carta Selvagem, Experiente, Arremessar/Atirar d10+",
+    "severities": [],
+    "id": "advantages-102"
+  },
+  {
+    "name": "Coragem Líquida",
+    "kind": "advantages",
+    "page": 45,
+    "category": "Antecedentes",
+    "description": "Seu herói processa o álcool de uma forma muito diferente da maioria. Na rodada após ter consumido uma bebida forte (pelo menos meio litro de um licor forte ou similar), o Vigor do personagem é aumentado em um tipo de dado (melhorando também a Resistência). O beberrão também pode ignorar um nível de modificadores de ferimento (cumulativo com outras habilidades de mesmo efeito).\n\nO efeito dura por uma hora depois de iniciado. Se o bêbado buscar a embriaguez, sofre -2 na Astúcia e rolagens baseadas em Agilidade enquanto continuar bebendo e pelas próximas 1d6 horas posteriores.",
+    "requirements": "Novato, Vigor d8+",
+    "severities": [],
+    "id": "advantages-103"
+  },
+  {
+    "name": "Curandeiro",
+    "kind": "advantages",
+    "page": 46,
+    "category": "Antecedentes",
+    "description": "Um herói com essa Vantagem adiciona +2 a todas as rolagens de Curar (incluindo rolagens de cura natural para os seus próprios ferimentos), sejam naturais ou de natureza mágica. Até cinco companheiros viajando com um Curandeiro também adicionam o bônus as suas rolagens de cura natural.",
+    "requirements": "Novato, Espírito d8+",
+    "severities": [],
+    "id": "advantages-104"
+  },
+  {
+    "name": "Elo Animal",
+    "kind": "advantages",
+    "page": 46,
+    "category": "Antecedentes",
+    "description": "Alguns indivíduos podem exercer incrível domínio sobre seus companheiros animais. Estes personagens podem gastar seus próprios Benes para quaisquer animais sob o seu controle, incluindo montarias, animais de estimação, familiares e assim por diante.",
+    "requirements": "Novato",
+    "severities": [],
+    "id": "advantages-105"
+  },
+  {
+    "name": "Noção Do Perigo",
+    "kind": "advantages",
+    "page": 46,
+    "category": "Antecedentes",
+    "description": "Seu herói pode sentir quando alguma coisa ruim está para acontecer. A qualquer momento em que estiver para ser vítima de um ataque surpresa, emboscada ou outra surpresa desagradável, recebe uma rolagem de Perceber com -2 antes do ataque ou evento ocorrer. Se for bem-sucedido, o personagem sabe que algo está para acontecer e pode tomar as ações apropriadas a respeito. Isso significa que o herói está em Espera para a primeira rodada de um combate. Caso falhe na sua rolagem, ele ainda segue as regras de Surpresa normais, se aplicáveis (veja a página 87).",
+    "requirements": "Novato",
+    "severities": [],
+    "id": "advantages-106"
+  },
+  {
+    "name": "Senhor Das Feras",
+    "kind": "advantages",
+    "page": 46,
+    "category": "Antecedentes",
+    "description": "Animais gostam do seu herói e não irão atacá-lo a menos que ele ataque primeiro ou eles estejam enfurecidos por alguma razão. Seu “magnetismo animal” é tão grande que também atrai um animal leal de alguma espécie, tipicamente um cão, lobo ou ave de rapina. Entretanto, o Mestre pode permitir outros companheiros caso se encaixem no cenário.\n\nO animal é um Extra (não um Carta Selvagem). Se ele for morto, o herói encontrará um substituto em 2d6 dias.",
+    "requirements": "Novato, Espírito d8+",
+    "severities": [],
+    "id": "advantages-107"
+  },
+  {
+    "name": "Sucateiro",
+    "kind": "advantages",
+    "page": 46,
+    "category": "Antecedentes",
+    "description": "Uma vez por sessão de jogo o personagem pode “lembrar de repente” que possui consigo uma peça de equipamento muito necessária. O\n\nitem precisa ser possível de estar guardado nos bolsos ou bolsa do herói (presumindo que ele tenha uma) e o Mestre tem a palavra final do que pode ser encontrado.\n\nVANTAGENS DE LIDERANÇA\n\nVantagens de Liderança concedem bônus a subordinados, tornando-os mais eficazes, confiáveis ou duráveis. Essas Vantagens só se aplicam a um número de subordinados dentro de 5 quadros (o “raio de comando”) e não são cumulativas com as mesmas Vantagens de outros lideres. Subordinados podem se beneficiar de Vantagens de Liderança diferentes do mesmo ou de diferentes líderes.",
+    "requirements": "Novato, Sorte",
+    "severities": [],
+    "id": "advantages-108"
+  },
+  {
+    "name": "Comando",
+    "kind": "advantages",
+    "page": 46,
+    "category": "Antecedentes",
+    "description": "Comando é a habilidade de dar instruções claras para aliados próximos e fortalecer a vontade do seu herói sobre eles. Isso torna os compatriotas do seu personagem mais determinados a lutar, apesar de seus ferimentos, adicionando assim +1 a suas rolagens de Espírito para se recuperarem do estado Abalado.",
+    "requirements": "Novato, Astúcia d6+",
+    "severities": [],
+    "id": "advantages-109"
+  },
+  {
+    "name": "Estrategista",
+    "kind": "advantages",
+    "page": 46,
+    "category": "Antecedentes",
+    "description": "O líder tem uma compreensão natural de pequenas unidades táticas e pode frequentemente se beneficiar de uma mudança rápida de situação.\n\nNo começo de um combate e antes de qualquer Carta de Ação ser sacada, o herói faz uma rolagem de Conhecimento (Batalha). Para cada sucesso e ampliação, recebe uma Carta de Ação. Estas são mantidas separadas de sua Carta de Ação normal e não são recolocadas no baralho até serem usadas ou o combate terminar (incluindo Curingas!). No começo de qualquer rodada, o personagem pode dar uma ou mais destas cartas adicionais as seus aliados, sejam Extras ou Cartas Selvagens, que então as usam como suas Cartas de Ação pela rodada no lugar da sacada por eles. Isso permite aos Extras operarem independentes dos personagens Carta Selvagem por uma rodada se receberem sua própria carta.\n\nApenas um personagem por encontro pode usar essa Vantagem.",
+    "requirements": "Experiente, Comando, carta Selvagem, Astúcia d8+, Conhecimento (Batalha) d6+",
+    "severities": [],
+    "id": "advantages-110"
+  },
+  {
+    "name": "Fervor",
+    "kind": "advantages",
+    "page": 47,
+    "category": "Antecedentes",
+    "description": "Uma frase simples dita por um grande líder pode ter, às vezes, importantes resultados. Um comandante com essa habilidade pode inspirar seus homens ao fervor sangrento gritando um lema, grito de guerra ou outras palavras inspiradoras. Aqueles no raio de comando adicionam +1 as suas rolagens de dano de Lutar.",
+    "requirements": "Veterano, Comando, Espírito d8+",
+    "severities": [],
+    "id": "advantages-111"
+  },
+  {
+    "name": "Inspirar",
+    "kind": "advantages",
+    "page": 47,
+    "category": "Antecedentes",
+    "description": "Lideres com excepcional reputação e experiência em combate, inspiram os soldados ao seu redor. Eles adicionam +2 as rolagens de Espírito para se recuperarem do estado Abalado (isto já inclui o bônus original de +1 pela Vantagem Comando).",
+    "requirements": "Experiente, Comando",
+    "severities": [],
+    "id": "advantages-112"
+  },
+  {
+    "name": "Líder Dos Homens",
+    "kind": "advantages",
+    "page": 47,
+    "category": "Antecedentes",
+    "description": "Liderar é fácil para o seu comandante. Aqueles sob as suas ordens trabalham como máquinas bem lubrificadas quando ele está no comando.\n\nAliados sob o comando do líder jogam um d10 como seu dado Selvagem ao invés de um d6 para efetuar rolagens em grupo.",
+    "requirements": "Veterano, Comando",
+    "severities": [],
+    "id": "advantages-113"
+  },
+  {
+    "name": "Líder Nato",
+    "kind": "advantages",
+    "page": 47,
+    "category": "Antecedentes",
+    "description": "Essa Vantagem significa uma ligação especial entre um líder e seus homens. Com ela, ele pode compartilhar seus Benes com quaisquer tropas sob o seu comando.",
+    "requirements": "Novato, Espírito d8+, Comando",
+    "severities": [],
+    "id": "advantages-114"
+  },
+  {
+    "name": "Mantenham A Formação!",
+    "kind": "advantages",
+    "page": 47,
+    "category": "Antecedentes",
+    "description": "Essa Vantagem fortalece a vontade dos homens sob o comando do herói. As tropas adicionam +1 a sua Resistência.",
+    "requirements": "Experiente, Comando, Astúcia d8+",
+    "severities": [],
+    "id": "advantages-115"
+  },
+  {
+    "name": "Presença De Comando",
+    "kind": "advantages",
+    "page": 47,
+    "category": "Antecedentes",
+    "description": "Uma voz trovejante, ordens eficazes, carisma natural ou simples treinamento resultam em uma unidade de combate muito mais eficiente. No centro desta unidade está o oficial no comando. Um herói com essa Vantagem possui um “raio de comando” de 10 quadros ao invés dos 5 habituais.\n\nVANTAGENS DE PODER\n\nVantagens de Poder são para aqueles com Antecedentes Arcanos. Veja o Capítulo Cinco para mais informações de cada tipo de Antecedente Arcano, como usá-los e os poderes disponíveis.",
+    "requirements": "Novato, Comando",
+    "severities": [],
+    "id": "advantages-116"
+  },
+  {
+    "name": "Drenar A Alma",
+    "kind": "advantages",
+    "page": 48,
+    "category": "Antecedentes",
+    "description": "Conjuradores, mentalistas e outros indivíduos arcanos em extrema necessidade de Pontos de Poder podem usar essa Vantagem para drenar energia de suas próprias almas. Para usar essa perigosa habilidade, o personagem arcano primeiro decide quantos Pontos de Poder ele deseja tirar de si mesmo. Ele então faz uma rolagem de Espírito menos o número de pontos que está tentando drenar (isso é uma ação livre). Num total de Espírito de 1 ou menos, o personagem sofre um ferimento e cai inconsciente por 1d6 horas. Em uma falha, o personagem sofre um ferimento. Com um sucesso ou melhor, o personagem recebe os pontos de que precisa e pode tentar conjurar um feitiço com estes pontos imediatamente, pois eles não podem ser guardados para uso posterior.",
+    "requirements": "Experiente, Antecedente Arcano (qualquer um menos Ciência Estranha), Conhecimento (Arcano) d10+",
+    "severities": [],
+    "id": "advantages-117"
+  },
+  {
+    "name": "Novo Poder",
+    "kind": "advantages",
+    "page": 48,
+    "category": "Antecedentes",
+    "description": "Um personagem arcano pode aprender um novo poder escolhendo esta Vantagem (podendo ser adquirida múltiplas vezes). Ele pode escolhê-lo de quaisquer poderes normalmente disponíveis para o seu Antecedente Arcano em particular.",
+    "requirements": "Novato, Antecedente Arcano",
+    "severities": [],
+    "id": "advantages-118"
+  },
+  {
+    "name": "Pontos De Poder",
+    "kind": "advantages",
+    "page": 48,
+    "category": "Antecedentes",
+    "description": "Magos, cientistas estranhos e outros indivíduos arcanos sempre querem mais poder. Essa Vantagem lhes concede um adicional de 5 Pontos de Poder.\n\nPontos de Poder podem ser escolhidos mais de uma vez, porém apenas uma vez por Estágio.",
+    "requirements": "Novato, Antecedente Arcano",
+    "severities": [],
+    "id": "advantages-119"
+  },
+  {
+    "name": "Recarga Rápida",
+    "kind": "advantages",
+    "page": 48,
+    "category": "Antecedentes",
+    "description": "Essa Vantagem permite a um personagem arcano recuperar 1 Ponto de Poder a cada 30 minutos.",
+    "requirements": "Experiente, Espírito d6+, Antecedente Arcano",
+    "severities": [],
+    "id": "advantages-120"
+  },
+  {
+    "name": "Recarga Rápida Aprimorada",
+    "kind": "advantages",
+    "page": 48,
+    "category": "Antecedentes",
+    "description": "O personagem recupera 1 Ponto de Poder a cada 15 minutos.\n\nVANTAGENS PROFISSIONAIS\n\nVantagens Profissionais são habilidades muito especiais que refletem muitos anos de prática num oficio em particular. Em alguns casos elas também podem representar bênçãos especiais de poderes superiores.\n\nEssas Vantagens ajudam você a criar um personagem que é muito mais competente em sua área de atuação que os outros. Caso deseje criar um Cientista Louco muito eficaz, por exemplo, poderia combinar o Antecedente Arcano (Ciência Estranha) com as Vantagens Engenhoqueiro e Senhor Conserta Tudo.\n\nVantagens Profissionais representam muitos anos de treinamento, por isto os seus requisitos são bastante elevados. Jogadores podem comprar Vantagens Profissionais após a criação do personagem, mas geralmente devem seguir praticando o oficio desejado durante o tempo livre ou entre as aventuras. O tempo gasto adquirindo uma dessas habilidades é subjetivo e cabe ao Mestre, mas torna o jogo muito mais verossímil se um pequeno tempo de narração for gasto treinando.\n\n• Acumulando: Bônus na mesma Característica por diferentes Vantagens Profissionais não se acumulam. Se você criar um herói com ambas as Vantagens Mateiro e Ladrão, por exemplo, ele ganha +2 na sua perícia Furtividade, não +4.",
+    "requirements": "Veterano, Recarga Rápida",
+    "severities": [],
+    "id": "advantages-121"
+  },
+  {
+    "name": "Acrobata",
+    "kind": "advantages",
+    "page": 48,
+    "category": "Antecedentes",
+    "description": "Aqueles que possuem treinamento formal nas artes acrobáticas ou são naturalmente ágeis podem pegar essa Vantagem. Ela adiciona +2 a todas as rolagens de Agilidade feitas para efetuar manobras acrobáticas (incluindo manobras de Truque) e também adiciona +1 ao Aparar de um personagem, desde que não tenha nenhuma penalidade por sobrecarga.",
+    "requirements": "Novato, Agilidade d8+, Força d6+",
+    "severities": [],
+    "id": "advantages-122"
+  },
+  {
+    "name": "Adepto",
+    "kind": "advantages",
+    "page": 49,
+    "category": "Antecedentes",
+    "description": "Adeptos são guerreiros sagrados que treinaram para se tornarem armas vivas. Alguns o fazem para se tornarem guerreiros supremos; outros a serviço de uma causa ou deus.\n\nComo uma ação livre, um adepto pode gastar 1 Ponto de Poder para ganhar PA 2 com todos os seus ataques desarmados até sua próxima ação.\n\nAlém disso, ao adquirir essa Vantagem e a cada novo Estágio, é possível escolher alterar as manifestações de um dos seguintes poderes para funcionarem apenas nos Adeptos, sendo ativados como uma ação livre: aumentar/reduzir característica, ferir, cura, deflexão ou velocidade. O Adepto precisa ter o poder e isso não permite ativar mais de um poder em uma rodada.",
+    "requirements": "Novato, Antecedente Arcano (Milagres), Artista Marcial, Fé d8+, Lutar d8+",
+    "severities": [],
+    "id": "advantages-123"
+  },
+  {
+    "name": "Ás",
+    "kind": "advantages",
+    "page": 49,
+    "category": "Antecedentes",
+    "description": "Ases são pilotos e motoristas especiais que se sentem mais confortáveis atrás de uma direção, leme ou manche do que em seus próprios pés.\n\nAses adicionam +2 as rolagens de Dirigir, Navegar e Pilotar. Além disso, também podem gastar Benes para fazer rolagens de Absorção para qualquer veículo ou embarcação sob seu controle. Isso é uma rolagem de Dirigir, Navegar ou Pilotar com -2 (cancelando seu +2 habitual). Cada sucesso e ampliação nega um ferimento e qualquer acerto crítico resultante dele.",
+    "requirements": "Novato, Agilidade d8+",
+    "severities": [],
+    "id": "advantages-124"
+  },
+  {
+    "name": "Assassino",
+    "kind": "advantages",
+    "page": 49,
+    "category": "Antecedentes",
+    "description": "Assassinos são matadores treinados que sabem como matar com precisão mortal – caso se aproximem apropriadamente de sua presa. Assassinos adicionam +2 a qualquer rolagem de dano quando atingem um inimigo desavisado, mesmo com ataques à distância.",
+    "requirements": "Novato, Agilidade d8+, Escalar d6+, Furtividade d8+, Lutar d6+",
+    "severities": [],
+    "id": "advantages-125"
+  },
+  {
+    "name": "Campeão",
+    "kind": "advantages",
+    "page": 49,
+    "category": "Antecedentes",
+    "description": "Campeões são homens e mulheres sagrados (ou profanos) escolhidos para lutarem por uma divindade ou religião em particular. Muitos são\n\nalmas piedosas, prontas e dispostas a entregarem suas vidas por uma grande causa, mas alguns podem ter nascido na função e seguem seu caminho com alguma relutância.\n\nCampeões combatem as forças da escuridão (ou bondade). Eles adicionam +2 ao dano ao atacarem criaturas sobrenaturais malignas (ou benignas) e ganham +2 de Resistência ao sofrerem dano de fontes sobrenaturais malignas (ou benignas), incluindo poderes arcanos e as armas, garras, presas, etc., de tais criaturas.",
+    "requirements": "Novato, Antecedente Arcano (Milagres), Espírito d8+, Força d6+, Vigor d8+, Fé d6+, Lutar d8+",
+    "severities": [],
+    "id": "advantages-126"
+  },
+  {
+    "name": "Engenhoqueiro",
+    "kind": "advantages",
+    "page": 50,
+    "category": "Antecedentes",
+    "description": "Esses gurus mecânicos são tão tecnicamente esclarecidos que rapidamente podem construir uma máquina para lidar com praticamente qualquer situação.\n\nUma vez por sessão de jogo, um Engenhoqueiro pode criar um dispositivo “improvisado” a partir de peças sobressalentes. O dispositivo funciona exatamente como qualquer outro dispositivo de Ciência Estranha e usa qualquer poder disponível a Cientistas Estranhos no cenário (porém isso ainda está sujeito a restrições de Estágio). Ele possui metade dos Pontos de Poder do seu inventor e uma vez usados, a engenhoca queima e não recarrega. O inventor precisa ter acesso a algumas peças e de uma quantidade razoável de tempo (definidos pelo Mestre, mas pelo menos 1d20 minutos) para criar o mecanismo.",
+    "requirements": "Novato, Antecedente Arcano (Ciência Estranha), Astúcia d8+, Ciência Estranha d8+, Consertar d8+, pelo menos outras duas perícias de Conhecimento cientifico em d6+",
+    "severities": [],
+    "id": "advantages-127"
+  },
+  {
+    "name": "Erudito",
+    "kind": "advantages",
+    "page": 50,
+    "category": "Antecedentes",
+    "description": "Professores sábios, estudantes devotados e entusiastas amadores gastam meses de suas vidas estudando certos campos específicos. Tornam-se especialistas nesses campos e raramente falham ao responder questões em sua área de especialização.\n\nEscolha quaisquer duas perícias de Conhecimento em que o Acadêmico tenha um d8 ou melhor. Adicione +2 ao seu total sempre que estas perícias forem usadas. Aqueles que estudam história militar têm uma vantagem natural ao comandar tropas em Combate em Massa (veja a página 113) – um +2 para uma rolagem de Conhecimento (Batalha) pode significar a diferença entre uma vitória vibrante e uma derrota esmagadora.",
+    "requirements": "Novato, d8+ nas perícias afetadas",
+    "severities": [],
+    "id": "advantages-128"
+  },
+  {
+    "name": "Guerreiro Sagrado/Profano",
+    "kind": "advantages",
+    "page": 50,
+    "category": "Antecedentes",
+    "description": "Acólitos, clérigos, paladinos, executores sagrados e outros avatares dos deuses frequentemente são encarregados de combater as forças do mal no mundo mortal. Essa Vantagem dá a eles um pequeno favorecimento contra tais inimigos.\n\nComo uma ação, um sacerdote ou outro indivíduo sagrado pode clamar por sua divindade eleita para repelir criaturas sobrenaturais malignas, como mortos vivos, demônios e similares. Isto também funciona em personagens malignos com a Vantagem Antecedente Arcano (Milagres).\n\nRepelir o mal custa 1 Ponto de Poder e tem distância igual ao Espírito do personagem. Criaturas-alvo dentro dessa distância devem fazer uma rolagem de Espírito. Falha significa que a criatura é Abalada; um 1 significa que ela é destruída. Cartas Selvagens sofrem um ferimento automático.\n\nUm personagem também pode ser um Guerreiro Profano trabalhando para as forças do mal. Nesse caso, ele repele criaturas boas, como anjos, paladinos ou personagens bons com Antecedente Arcano (Milagres).",
+    "requirements": "Novato, Antecedente Arcano (Milagres), Espírito d8+, Fé d6+",
+    "severities": [],
+    "id": "advantages-129"
+  },
+  {
+    "name": "Investigador",
+    "kind": "advantages",
+    "page": 50,
+    "category": "Antecedentes",
+    "description": "Investigadores gastaram uma grande quantidade de tempo pesquisando lendas antigas, trabalhando nas ruas ou solucionando mistérios diabólicos. Alguns desses heróis são verdadeiros Detetives de aluguel enquanto outros podem ser magos errantes em um mundo de fantasia ou talvez curiosos professores universitários se deparando na escuridão da noite com Coisas Que O Homem Não Deveria Conhecer. Investigadores adicionam +2 a rolagens de Investigação e Manha, assim como em rolagens de Perceber feitas para procurar evidências.",
+    "requirements": "Novato, Astúcia d8+, Investigação d8+, Manha d8+",
+    "severities": [],
+    "id": "advantages-130"
+  },
+  {
+    "name": "Ladrão",
+    "kind": "advantages",
+    "page": 50,
+    "category": "Antecedentes",
+    "description": "Ladrões se especializam em subterfúgio, trapaça e acrobacia. Eles podem ser indispensáveis caso armadilhas precisem ser detectadas, muros precisem ser escalados e trancas precisem ser abertas.\n\nLadrões adicionam +2 a rolagens de Arrombar, Escalar e Furtividade. O bônus em Furtividade não se aplica se o personagem está em um ambiente selvagem – só em áreas urbanas.",
+    "requirements": "Novato, Agilidade d8+, Arrombar d6+, Escalar d6+, Furtividade d8+",
+    "severities": [],
+    "id": "advantages-131"
+  },
+  {
+    "name": "Mago",
+    "kind": "advantages",
+    "page": 51,
+    "category": "Antecedentes",
+    "description": "Magos variam de jovens aprendizes a feiticeiros supremos assustadoramente poderosos. Contudo, muitas vezes são fracos fisicamente e raramente possuem os poderes divinos ou habilidades de cura dos Conjuradores clericais. O que lhes falta em favorecimento espiritual, entretanto, eles mais do que compensam em utilidade e poder sobrenatural.\n\nMagos aprendem seu ofício em instituições formais ou sobre a tutela de mestres experientes. Cada ampliação que um Mago consegue em sua rolagem de Conjuração reduz o custo do feitiço em 1. O mago precisa ter os pontos disponíveis para lançar o feitiço antes da rolagem.",
+    "requirements": "Novato, Antecedente Arcano (Magia), Astúcia d8+, Conhecimento (Arcano) d8+, Conjuração d6+",
+    "severities": [],
+    "id": "advantages-132"
+  },
+  {
+    "name": "Mateiro",
+    "kind": "advantages",
+    "page": 51,
+    "category": "Antecedentes",
+    "description": "Mateiros são patrulheiros, batedores e caçadores que estão mais em casa na natureza do que em áreas urbanas. São habilidosos e sabem como viver da terra por meses. Ganham +2 nas rolagens de Rastrear, Sobrevivência e Furtividade feitas na natureza (não em cidades, ruínas ou no subterrâneo).",
+    "requirements": "Novato, Espírito d6+, Rastrear d8+, Sobrevivência d8+",
+    "severities": [],
+    "id": "advantages-133"
+  },
+  {
+    "name": "Mcgyver",
+    "kind": "advantages",
+    "page": 51,
+    "category": "Antecedentes",
+    "description": "Esse personagem pode improvisar alguma coisa quando a necessidade de uma ferramenta surge. Ele não sofre penalidades em rolagens de Característica por falta de equipamento na maioria das situações.\n\nAlém disso, dadas algumas ferramentas simples, acessórios ou dispositivos, normalmente pode improvisar dispositivos para ajudá-lo a escapar de armadilhas mortais, armas correspondentes a alguma necessidade bizarra ou de alguma outra forma criar algo que seja necessário caso tal coisa não esteja realmente presente. A extensão disso cabe inteiramente ao Mestre, mas criatividade deve ser recompensada, especialmente em situações terríveis onde poucas alternativas são possíveis.",
+    "requirements": "Novato, Astúcia d6+, Consertar d6+, Perceber d8+",
+    "severities": [],
+    "id": "advantages-134"
+  },
+  {
+    "name": "Mentalista",
+    "kind": "advantages",
+    "page": 51,
+    "category": "Antecedentes",
+    "description": "Mentalistas são mestres do controle mental e dos poderes Psiônicos. Alguns são heróis pulp, outros são treinados em academias secretas do governo para erradicar traidores. Suas brincadeiras frequentes com a mente humana lhes dão um +2 em qualquer rolagem resistida de Psiquismo, estejam usando seus poderes contra um inimigo ou tentando se defender contra um Mentalista rival.",
+    "requirements": "Novato, Antecedente Arcano (Psiquismo), Astúcia d8+, Psiquismo d6+",
+    "severities": [],
+    "id": "advantages-135"
+  },
+  {
+    "name": "Pau Pra Toda Obra",
+    "kind": "advantages",
+    "page": 51,
+    "category": "Antecedentes",
+    "description": "Através de escolaridade avançada, aprendizagem por livros, programas de computador para aprimoramento de perícia ou apenas uma incrível percepção intuitiva, seu herói tem um talento para pegar perícias na hora. Poucas são as coisas que não consegue descobrir dado um pouco de tempo e uma pitada de sorte.\n\nSempre que realizar uma rolagem não treinada para uma perícia baseada em Astúcia, ele pode fazê-lo com d4 ao invés do d4-2 habitual.",
+    "requirements": "Novato, Astúcia d10+",
+    "severities": [],
+    "id": "advantages-136"
+  },
+  {
+    "name": "Senhor Conserta Tudo",
+    "kind": "advantages",
+    "page": 52,
+    "category": "Antecedentes",
+    "description": "O inventor adiciona +2 a suas rolagens de Consertar. Com uma ampliação, reduz a metade o tempo normalmente necessário para reparar alguma coisa. Isso significa que se um trabalho de Consertar em especial já indica que uma ampliação o repara na metade do tempo, um Senhor Conserta Tudo pode terminar o trabalho em um quarto do tempo com uma ampliação.\n\nVANTAGENS SOCIAIS\n\nLevar as pessoas a fazerem o que você deseja é uma habilidade crucial em praticamente quaisquer cenários. Essas Vantagens ajudam seu personagem a fazer exatamente isso.",
+    "requirements": "Novato, Antecedente Arcano (Ciência Estranha), Astúcia d10+, Ciência Estranha d8+, Consertar d8+, pelo menos outras duas perícias de Conhecimento cientifico em d6+",
+    "severities": [],
+    "id": "advantages-137"
+  },
+  {
+    "name": "Carismático",
+    "kind": "advantages",
+    "page": 52,
+    "category": "Antecedentes",
+    "description": "Seu herói aprendeu como trabalhar com outras pessoas, mesmo aquelas que possam de alguma forma se opor a ele ou aos seus esforços. Adicione +2 ao seu Carisma.",
+    "requirements": "Novato, Espírito d8+",
+    "severities": [],
+    "id": "advantages-138"
+  },
+  {
+    "name": "Conexões",
+    "kind": "advantages",
+    "page": 52,
+    "category": "Antecedentes",
+    "description": "Seja nos Federais, nos tiras, na Máfia ou em alguma grande corporação, seu herói conhece alguém de dentro – alguém disposto ocasionalmente a dar uma mãozinha (normalmente uma vez por sessão de jogo).\n\nEssa Vantagem pode ser pega mais de uma vez, mas cada vez deve ser aplicada a uma organização diferente. O Mestre deve, também, assegurar que a organização seja limitada, única e exclusiva. Um herói pode, por exemplo, ter Conexões (Exército dos Estados Unidos), mas não pode ter uma ampla Conexão (Militares).\n\nUsar as Conexões de um personagem requer que ele primeiro entre em contato com um de seus contatos. Isso requer uma rolagem de Manha. Falha indica que o contato em particular estava indisponível, seu celular estava desligado ou de outro modo ele estava ocupado.\n\nUma vez em contato, o herói precisa fazer uma rolagem de Persuasão. O Mestre deve se sentir livre para modificar tanto a rolagem de Persuasão quanto quaisquer resultados, baseando-se nas circunstâncias.\n\nUma falha indica que os contatos do herói não podem vir neste momento ou talvez não tenham sido convencidos de que sua ajuda era realmente necessária.\n\nEm um sucesso, o contato pode partilhar informações, mas não fará nada muito arriscado para ajudar. Em uma ampliação, ele está disposto a vazar informações sigilosas, mas não chega à traição definitiva.\n\nDuas ou mais ampliações indicam que o herói apertou os botões certos e pode contar com ajuda significativa. A Conexão correrá o risco de sofrer sérias consequências pelo herói e se ele precisar de ajuda financeira, ela poderá fornecer um pouco mais do que está acostumada. Se o herói pedir por músculos, o contato fornece um especialista (um arrombador de cofres, motorista, especialista em segurança, etc.) ou cinco Extras típicos da organização em particular do contato (um chefe da máfia envia cinco capangas, o Exército envia cinco soldados de infantaria etc.).",
+    "requirements": "Novato",
+    "severities": [],
+    "id": "advantages-139"
+  },
+  {
+    "name": "Elo Comum",
+    "kind": "advantages",
+    "page": 52,
+    "category": "Antecedentes",
+    "description": "Esta Vantagem significa uma ligação especial entre companheiros próximos – como uma típica equipe. Não importa se os personagens se dão ou não perfeitamente bem juntos, eles apenas criaram um vínculo estreito e comum durante suas aventuras épicas.\n\nUm personagem com essa Vantagem pode livremente ceder seus Benes a qualquer outro Carta Selvagem com quem ele possa se comunicar. Isso representa o personagem dando seu apoio verbal ou espiritual ao aliado. O jogador precisa dizer o que seu personagem está fazendo para dar o apoio. O gesto pode ser tão complexo quanto um discurso vibrante ou tão simples quanto um aceno de cabeça.",
+    "requirements": "Carta Selvagem, Novato, Espírito d8+",
+    "severities": [],
+    "id": "advantages-140"
+  },
+  {
+    "name": "Obstinado",
+    "kind": "advantages",
+    "page": 52,
+    "category": "Antecedentes",
+    "description": "Personagens com grande força de vontade usam sua voz, olhar de aço ou raciocínio rápido para perturbar seus oponentes. Obstinado adiciona +2 as rolagens de Intimidação e Provocar de um personagem, bem como a suas rolagens de Espírito e Astúcia para resistir a ataques de Testes de Vontade.\n\nVANTAGENS LENDÁRIAS\n\nA maioria das Vantagens Lendárias são muito específicas para seus mundos de campanha – como ganhar uma fortaleza ou favorecimento divino – mas algumas poucas se encaixam em qualquer lugar, como mostrado abaixo.",
+    "requirements": "Novato, Intimidação d6+, Provocar d6+",
+    "severities": [],
+    "id": "advantages-141"
+  },
+  {
+    "name": "Duro Na Queda",
+    "kind": "advantages",
+    "page": 53,
+    "category": "Antecedentes",
+    "description": "Seu herói é um veterano calejado. Aumente sua Resistência em +1.",
+    "requirements": "Lendário",
+    "severities": [],
+    "id": "advantages-142"
+  },
+  {
+    "name": "Duro Na Queda Aprimorado",
+    "kind": "advantages",
+    "page": 53,
+    "category": "Antecedentes",
+    "description": "Aumente a Resistência do seu herói em outro +1.",
+    "requirements": "Lendário, Duro na Queda",
+    "severities": [],
+    "id": "advantages-143"
+  },
+  {
+    "name": "Mestre De Arma",
+    "kind": "advantages",
+    "page": 53,
+    "category": "Antecedentes",
+    "description": "Aumente o Aparar de seu herói em +1.",
+    "requirements": "Lendário, Lutar d12",
+    "severities": [],
+    "id": "advantages-144"
+  },
+  {
+    "name": "Mestre Das Armas",
+    "kind": "advantages",
+    "page": 53,
+    "category": "Antecedentes",
+    "description": "Aumente o Aparar de seu herói em outro +1.",
+    "requirements": "Lendário, Mestre de Arma",
+    "severities": [],
+    "id": "advantages-145"
+  },
+  {
+    "name": "Parceiro",
+    "kind": "advantages",
+    "page": 53,
+    "category": "Antecedentes",
+    "description": "Um personagem que triunfe contra o mal várias e várias vezes torna-se uma inspiração para outros. Eventualmente um destes jovens cruzados pode tentar se juntar ao herói em suas missões épicas.\n\nO herói ganha um parceiro de Estágio Novato. O parceiro é um Carta Selvagem, ganha experiência normalmente e tem habilidades que complementam ou imitam as do seu herói.\n\nO jogador deve controlar seu parceiro exatamente como qualquer outro aliado. Logicamente o parceiro pode casualmente causar problemas (sendo capturado, indo de encontro ao perigo quando supostamente não deveria fazê-lo, etc.). O jogador deve estar preparado para essa “Vantagem” ocasionalmente se tornar uma “Complicação”.\n\nSe o parceiro morrer, ele não será substituído, a menos que o herói escolha esta Vantagem novamente.",
+    "requirements": "Carta Selvagem, Lendário",
+    "severities": [],
+    "id": "advantages-146"
+  },
+  {
+    "name": "Profissional",
+    "kind": "advantages",
+    "page": 54,
+    "category": "Antecedentes",
+    "description": "O personagem é um especialista em uma perícia ou atributo específico (à sua escolha). Esta Característica torna-se d12+1. Essa Vantagem pode ser escolhida mais de uma vez, mas ela nunca pode ser aplicada duas vezes a mesma perícia ou atributo.",
+    "requirements": "Lendário, d12 na Característica afetada",
+    "severities": [],
+    "id": "advantages-147"
+  },
+  {
+    "name": "Especialista",
+    "kind": "advantages",
+    "page": 54,
+    "category": "Antecedentes",
+    "description": "Como acima, mas a Característica aumenta para d12+2.",
+    "requirements": "Lendário, Profissional na Característica afetada",
+    "severities": [],
+    "id": "advantages-148"
+  },
+  {
+    "name": "Mestre",
+    "kind": "advantages",
+    "page": 54,
+    "category": "Antecedentes",
+    "description": "O Dado Selvagem do personagem aumenta para um d10 ao rolar uma Característica específica de sua escolha. Essa Vantagem pode ser escolhida várias vezes, no entanto, ela afeta apenas uma Característica específica por vez.",
+    "requirements": "Carta Selvagem, Lendário, Especialista na Característica afetada",
+    "severities": [],
+    "id": "advantages-149"
+  },
+  {
+    "name": "Mestre Das Artes Marciais",
+    "kind": "advantages",
+    "page": 54,
+    "category": "Antecedentes",
+    "description": "O herói é mortal com as suas mãos. Ele adiciona +2 a seu dano desarmado sempre que esco\n\nlhe essa Vantagem, até um máximo de cinco vezes para um total de +10 de bônus de dano.",
+    "requirements": "Lendário, Artista Marcial Aprimorado, Lutar d12+",
+    "severities": [],
+    "id": "advantages-150"
+  },
+  {
+    "name": "Seguidores",
+    "kind": "advantages",
+    "page": 54,
+    "category": "Antecedentes",
+    "description": "Heróis frequentemente adquirem exércitos dedicados, “homens felizes” ou outros que voluntariamente seguem o herói em suas aventuras.\n\nCada vez que essa Vantagem é escolhida, cinco seguidores juntam-se ao bando do herói. Casualidades não são automaticamente repostas, assim um herói precisa escolher esta Vantagem eventualmente para repor suas perdas. Os seguidores precisam ter alguma forma de comer e ganhar dinheiro e normalmente querem uma parte de qualquer espólio, tesouro ou outras premiações adquiridas pelo herói. Do contrário, eles são totalmente dedicados ao seu ídolo e arriscam suas vidas por ele sob qualquer condição normal. Não jogarão fora suas vidas conscientemente, exceto em circunstâncias muito especiais.\n\nO Mestre determina as estatísticas dos seguidores, mas no geral, são usadas as estatísticas do Soldado apresentado na página 111. Seguidores normalmente chegam apenas com equipamento básico, dependendo do seu cenário em particular (guerreiros em fantasia chegam com pelo menos armaduras de couro e espadas curtas, por exemplo). O herói precisa comprar qualquer equipamento adicional para os seus seguidores.",
+    "requirements": "Carta Selvagem, Lendário",
+    "severities": [],
+    "id": "advantages-151"
+  }
+]
